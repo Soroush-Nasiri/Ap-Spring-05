@@ -1,0 +1,33 @@
+Total words original: 69
+Total words after filter: 50
+Word Frequencies:
+but: 4
+she's: 4
+dog: 3
+it's: 3
+low-cost: 3
+wind: 3
+hard: 2
+he's: 2
+line: 2
+moon: 2
+part-time: 2
+well-known: 2
+11a?21: 1
+21-21: 1
+bread: 1
+city: 1
+coffee: 1
+come!on: 1
+create: 1
+dark: 1
+forest: 1
+hello: 1
+high-quality: 1
+horse: 1
+house: 1
+mountain: 1
+real-time: 1
+star: 1
+test: 1
+tiger: 1

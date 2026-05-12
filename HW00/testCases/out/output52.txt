@@ -1,0 +1,28 @@
+Total words original: 63
+Total words after filter: 40
+Word Frequencies:
+long-term: 5
+bro: 3
+coffee: 3
+275.21.13: 2
+book: 2
+don't: 2
+low-cost: 2
+no.way: 2
+self-made: 2
+word: 2
+11a?21: 1
+apple: 1
+bird: 1
+can't: 1
+cat: 1
+code: 1
+lion: 1
+mountain: 1
+ocean: 1
+people: 1
+short-term: 1
+slow: 1
+they're: 1
+up-to-date: 1
+won't: 1

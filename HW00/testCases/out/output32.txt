@@ -1,0 +1,24 @@
+Total words original: 51
+Total words after filter: 35
+Word Frequencies:
+happy: 6
+short-term: 4
+come!on: 2
+dark: 2
+he's: 2
+open-source: 2
+program: 2
+won't: 2
+275.21.13: 1
+but: 1
+cloud: 1
+complex: 1
+door: 1
+from: 1
+no.way: 1
+people: 1
+rain: 1
+road: 1
+test: 1
+this: 1
+well-known: 1

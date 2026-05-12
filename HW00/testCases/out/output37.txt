@@ -1,0 +1,31 @@
+Total words original: 72
+Total words after filter: 48
+Word Frequencies:
+cloud: 8
+sugar: 5
+line: 4
+short-term: 3
+high-quality: 2
+house: 2
+well-known: 2
+won't: 2
+11a?21: 1
+275.21.13: 1
+but: 1
+can't: 1
+coffee: 1
+door: 1
+fruit: 1
+he's: 1
+lion: 1
+low-cost: 1
+moon: 1
+ocean: 1
+place: 1
+real-time: 1
+rice: 1
+run: 1
+she's: 1
+time: 1
+up-to-date: 1
+water: 1

@@ -1,0 +1,36 @@
+Total words original: 60
+Total words after filter: 51
+Word Frequencies:
+page: 6
+this: 4
+house: 3
+part-time: 3
+they're: 3
+he's: 2
+high-quality: 2
+long-term: 2
+write: 2
+1.11.123: 1
+11a?21: 1
+275.21.13: 1
+beautiful: 1
+book: 1
+bread: 1
+bright: 1
+build: 1
+can't: 1
+coffee: 1
+come!on: 1
+don't: 1
+door: 1
+file: 1
+fish: 1
+forest: 1
+have: 1
+it's: 1
+mountain: 1
+people: 1
+self-made: 1
+think: 1
+tiger: 1
+well-known: 1

@@ -1,0 +1,33 @@
+Total words original: 63
+Total words after filter: 47
+Word Frequencies:
+hard: 5
+build: 4
+jump: 4
+lion: 3
+cold: 2
+dark: 2
+dog: 2
+no.way: 2
+real-time: 2
+and: 1
+apple: 1
+city: 1
+don't: 1
+fire: 1
+from: 1
+he's: 1
+horse: 1
+moon: 1
+ocean: 1
+part-time: 1
+she's: 1
+star: 1
+stone: 1
+sun: 1
+this: 1
+tiger: 1
+time: 1
+up-to-date: 1
+with: 1
+write: 1

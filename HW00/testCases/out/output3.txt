@@ -1,0 +1,31 @@
+Total words original: 51
+Total words after filter: 35
+Word Frequencies:
+sad: 5
+complex: 2
+no.way: 2
+she's: 2
+1.11.123: 1
+11a?21: 1
+21-21: 1
+bright: 1
+can't: 1
+cat: 1
+cold: 1
+dark: 1
+fish: 1
+for: 1
+forest: 1
+he's: 1
+it's: 1
+long-term: 1
+low-cost: 1
+open-source: 1
+sky: 1
+stone: 1
+sugar: 1
+test: 1
+they're: 1
+this: 1
+time: 1
+won't: 1

@@ -1,0 +1,26 @@
+Total words original: 54
+Total words after filter: 28
+Word Frequencies:
+they're: 3
+long-term: 2
+low-cost: 2
+real-time: 2
+1.11.123: 1
+11a?21: 1
+21-21: 1
+275.21.13: 1
+apple: 1
+build: 1
+cloud: 1
+code: 1
+dark: 1
+dog: 1
+forest: 1
+have: 1
+he's: 1
+high-quality: 1
+mountain: 1
+short-term: 1
+up-to-date: 1
+won't: 1
+write: 1

@@ -1,0 +1,28 @@
+Total words original: 55
+Total words after filter: 35
+Word Frequencies:
+fish: 6
+1.11.123: 2
+cloud: 2
+don't: 2
+ocean: 2
+think: 2
+275.21.13: 1
+beautiful: 1
+bright: 1
+come!on: 1
+complex: 1
+fruit: 1
+he's: 1
+horse: 1
+low-cost: 1
+page: 1
+read: 1
+run: 1
+she's: 1
+short-term: 1
+slow: 1
+test: 1
+that: 1
+well-known: 1
+wind: 1

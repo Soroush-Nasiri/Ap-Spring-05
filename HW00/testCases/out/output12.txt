@@ -1,0 +1,24 @@
+Total words original: 51
+Total words after filter: 29
+Word Frequencies:
+book: 6
+jump: 4
+00.11.12.14: 1
+11a?21: 1
+bright: 1
+can't: 1
+coffee: 1
+come!on: 1
+file: 1
+high-quality: 1
+it's: 1
+learn: 1
+lion: 1
+long-term: 1
+real-time: 1
+she's: 1
+short-term: 1
+simple: 1
+star: 1
+they're: 1
+up-to-date: 1

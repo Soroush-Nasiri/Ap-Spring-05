@@ -1,0 +1,36 @@
+Total words original: 72
+Total words after filter: 55
+Word Frequencies:
+water: 6
+ocean: 4
+page: 3
+read: 3
+sad: 3
+won't: 3
+it's: 2
+lion: 2
+mountain: 2
+part-time: 2
+up-to-date: 2
+well-known: 2
+21-21: 1
+275.21.13: 1
+but: 1
+can't: 1
+code: 1
+come!on: 1
+dark: 1
+don't: 1
+earth: 1
+fire: 1
+hello: 1
+horse: 1
+jump: 1
+learn: 1
+low-cost: 1
+open-source: 1
+real-time: 1
+rice: 1
+slow: 1
+time: 1
+with: 1

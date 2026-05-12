@@ -1,0 +1,37 @@
+Total words original: 65
+Total words after filter: 54
+Word Frequencies:
+star: 7
+run: 5
+that: 5
+11a?21: 2
+long-term: 2
+no.way: 2
+open-source: 2
+river: 2
+won't: 2
+1.11.123: 1
+21-21: 1
+book: 1
+but: 1
+can't: 1
+earth: 1
+for: 1
+fruit: 1
+hard: 1
+he's: 1
+high-quality: 1
+horse: 1
+lion: 1
+low-cost: 1
+moon: 1
+part-time: 1
+place: 1
+rabbit: 1
+rain: 1
+real-time: 1
+she's: 1
+short-term: 1
+stone: 1
+test: 1
+water: 1

@@ -1,0 +1,29 @@
+Total words original: 55
+Total words after filter: 46
+Word Frequencies:
+test: 7
+think: 6
+sun: 5
+up-to-date: 3
+don't: 2
+real-time: 2
+won't: 2
+00.11.12.14: 1
+11a?21: 1
+but: 1
+code: 1
+coffee: 1
+create: 1
+dark: 1
+fast: 1
+hello: 1
+high-quality: 1
+it's: 1
+lion: 1
+moon: 1
+mountain: 1
+nature: 1
+part-time: 1
+rice: 1
+river: 1
+self-made: 1

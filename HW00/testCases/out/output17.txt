@@ -1,0 +1,32 @@
+Total words original: 68
+Total words after filter: 51
+Word Frequencies:
+book: 7
+time: 7
+long-term: 4
+people: 3
+fire: 2
+hard: 2
+it's: 2
+mountain: 2
+part-time: 2
+but: 1
+can't: 1
+complex: 1
+dark: 1
+for: 1
+he's: 1
+hello: 1
+high-quality: 1
+low-cost: 1
+moon: 1
+real-time: 1
+self-made: 1
+she's: 1
+sugar: 1
+that: 1
+the: 1
+they're: 1
+wind: 1
+with: 1
+won't: 1

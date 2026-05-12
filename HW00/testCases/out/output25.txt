@@ -1,0 +1,31 @@
+Total words original: 72
+Total words after filter: 56
+Word Frequencies:
+program: 6
+rain: 6
+sugar: 4
+275.21.13: 3
+he's: 3
+high-quality: 3
+can't: 2
+happy: 2
+long-term: 2
+low-cost: 2
+open-source: 2
+sun: 2
+they're: 2
+think: 2
+warm: 2
+book: 1
+fast: 1
+file: 1
+fish: 1
+horse: 1
+page: 1
+rice: 1
+river: 1
+she's: 1
+short-term: 1
+simple: 1
+stone: 1
+with: 1

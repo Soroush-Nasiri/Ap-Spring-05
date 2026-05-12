@@ -1,0 +1,37 @@
+Total words original: 90
+Total words after filter: 63
+Word Frequencies:
+lion: 7
+sky: 7
+line: 4
+complex: 3
+dog: 3
+part-time: 3
+she's: 3
+can't: 2
+he's: 2
+high-quality: 2
+it's: 2
+self-made: 2
+won't: 2
+00.11.12.14: 1
+11a?21: 1
+21-21: 1
+275.21.13: 1
+and: 1
+bread: 1
+bright: 1
+cloud: 1
+cold: 1
+don't: 1
+from: 1
+have: 1
+jump: 1
+no.way: 1
+open-source: 1
+real-time: 1
+star: 1
+the: 1
+think: 1
+up-to-date: 1
+well-known: 1

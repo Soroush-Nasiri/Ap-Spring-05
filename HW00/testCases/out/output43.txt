@@ -1,0 +1,37 @@
+Total words original: 74
+Total words after filter: 61
+Word Frequencies:
+cat: 6
+jump: 4
+real-time: 4
+short-term: 4
+he's: 3
+low-cost: 3
+won't: 3
+1.11.123: 2
+complex: 2
+fast: 2
+forest: 2
+open-source: 2
+she's: 2
+well-known: 2
+apple: 1
+bird: 1
+book: 1
+bright: 1
+bro: 1
+can't: 1
+city: 1
+come!on: 1
+dog: 1
+fire: 1
+high-quality: 1
+horse: 1
+it's: 1
+mountain: 1
+nature: 1
+program: 1
+sad: 1
+they're: 1
+think: 1
+window: 1

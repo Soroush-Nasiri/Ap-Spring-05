@@ -1,0 +1,23 @@
+Total words original: 52
+Total words after filter: 37
+Word Frequencies:
+data: 6
+line: 6
+sky: 4
+from: 3
+cat: 2
+part-time: 2
+00.11.12.14: 1
+1.11.123: 1
+apple: 1
+don't: 1
+forest: 1
+hard: 1
+hello: 1
+house: 1
+it's: 1
+moon: 1
+read: 1
+she's: 1
+simple: 1
+sun: 1

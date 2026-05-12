@@ -1,0 +1,32 @@
+Total words original: 61
+Total words after filter: 50
+Word Frequencies:
+data: 7
+hello: 5
+cloud: 4
+place: 4
+1.11.123: 2
+it's: 2
+she's: 2
+up-to-date: 2
+word: 2
+and: 1
+build: 1
+can't: 1
+code: 1
+coffee: 1
+dark: 1
+earth: 1
+for: 1
+from: 1
+have: 1
+lion: 1
+low-cost: 1
+nature: 1
+real-time: 1
+rice: 1
+short-term: 1
+sky: 1
+they're: 1
+wind: 1
+won't: 1

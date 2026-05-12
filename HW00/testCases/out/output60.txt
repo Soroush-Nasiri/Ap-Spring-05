@@ -1,0 +1,36 @@
+Total words original: 83
+Total words after filter: 58
+Word Frequencies:
+happy: 5
+jump: 5
+slow: 5
+cold: 4
+open-source: 3
+won't: 3
+earth: 2
+long-term: 2
+sad: 2
+she's: 2
+short-term: 2
+this: 2
+11a?21: 1
+bird: 1
+come!on: 1
+complex: 1
+create: 1
+dark: 1
+he's: 1
+it's: 1
+line: 1
+mountain: 1
+ocean: 1
+part-time: 1
+program: 1
+rain: 1
+read: 1
+sky: 1
+sugar: 1
+think: 1
+up-to-date: 1
+well-known: 1
+write: 1

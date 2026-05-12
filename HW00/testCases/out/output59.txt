@@ -1,0 +1,29 @@
+Total words original: 60
+Total words after filter: 51
+Word Frequencies:
+door: 6
+warm: 6
+fish: 5
+river: 3
+sad: 3
+00.11.12.14: 2
+come!on: 2
+data: 2
+he's: 2
+long-term: 2
+low-cost: 2
+well-known: 2
+1.11.123: 1
+11a?21: 1
+city: 1
+complex: 1
+high-quality: 1
+it's: 1
+lion: 1
+program: 1
+self-made: 1
+she's: 1
+test: 1
+with: 1
+world: 1
+write: 1

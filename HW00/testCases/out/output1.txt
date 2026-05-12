@@ -1,0 +1,34 @@
+Total words original: 73
+Total words after filter: 58
+Word Frequencies:
+complex: 7
+lion: 6
+tiger: 6
+low-cost: 4
+up-to-date: 3
+00.11.12.14: 2
+hello: 2
+no.way: 2
+they're: 2
+water: 2
+well-known: 2
+1.11.123: 1
+can't: 1
+come!on: 1
+dark: 1
+data: 1
+from: 1
+happy: 1
+have: 1
+he's: 1
+it's: 1
+learn: 1
+page: 1
+real-time: 1
+river: 1
+road: 1
+run: 1
+short-term: 1
+the: 1
+wind: 1
+window: 1

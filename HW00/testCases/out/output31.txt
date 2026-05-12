@@ -1,0 +1,28 @@
+Total words original: 62
+Total words after filter: 43
+Word Frequencies:
+but: 8
+window: 5
+bread: 2
+don't: 2
+fire: 2
+have: 2
+self-made: 2
+she's: 2
+won't: 2
+00.11.12.14: 1
+bro: 1
+can't: 1
+cloud: 1
+code: 1
+data: 1
+it's: 1
+real-time: 1
+rice: 1
+short-term: 1
+that: 1
+they're: 1
+warm: 1
+water: 1
+well-known: 1
+with: 1

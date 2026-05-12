@@ -1,0 +1,32 @@
+Total words original: 63
+Total words after filter: 51
+Word Frequencies:
+rabbit: 8
+line: 4
+it's: 3
+bird: 2
+lion: 2
+long-term: 2
+low-cost: 2
+star: 2
+test: 2
+the: 2
+think: 2
+up-to-date: 2
+water: 2
+00.11.12.14: 1
+1.11.123: 1
+bread: 1
+can't: 1
+city: 1
+don't: 1
+fire: 1
+happy: 1
+jump: 1
+ocean: 1
+open-source: 1
+self-made: 1
+slow: 1
+this: 1
+with: 1
+won't: 1

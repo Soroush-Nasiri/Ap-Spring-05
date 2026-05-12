@@ -1,0 +1,23 @@
+Total words original: 52
+Total words after filter: 33
+Word Frequencies:
+the: 7
+house: 6
+he's: 2
+low-cost: 2
+275.21.13: 1
+apple: 1
+code: 1
+don't: 1
+fish: 1
+from: 1
+mountain: 1
+read: 1
+run: 1
+self-made: 1
+she's: 1
+that: 1
+think: 1
+wind: 1
+won't: 1
+world: 1

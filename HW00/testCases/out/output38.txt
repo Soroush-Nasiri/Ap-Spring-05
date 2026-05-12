@@ -1,0 +1,37 @@
+Total words original: 98
+Total words after filter: 74
+Word Frequencies:
+create: 7
+data: 7
+cloud: 5
+long-term: 5
+moon: 5
+fire: 3
+no.way: 3
+that: 3
+apple: 2
+cold: 2
+dog: 2
+horse: 2
+house: 2
+open-source: 2
+part-time: 2
+road: 2
+they're: 2
+well-known: 2
+bright: 1
+come!on: 1
+for: 1
+page: 1
+people: 1
+real-time: 1
+self-made: 1
+she's: 1
+short-term: 1
+simple: 1
+stone: 1
+the: 1
+window: 1
+with: 1
+won't: 1
+write: 1

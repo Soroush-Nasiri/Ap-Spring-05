@@ -1,0 +1,33 @@
+Total words original: 66
+Total words after filter: 49
+Word Frequencies:
+cold: 6
+don't: 5
+bread: 4
+high-quality: 4
+she's: 3
+can't: 2
+time: 2
+1.11.123: 1
+11a?21: 1
+book: 1
+bro: 1
+code: 1
+dog: 1
+earth: 1
+fast: 1
+fire: 1
+forest: 1
+from: 1
+fruit: 1
+happy: 1
+hard: 1
+low-cost: 1
+ocean: 1
+open-source: 1
+rice: 1
+self-made: 1
+simple: 1
+sky: 1
+think: 1
+well-known: 1
