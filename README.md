@@ -1,6 +1,7 @@
 # 🎓 Advanced Programming
 
 > Department of Engineering Science
+
 > Spring Semester 1405
 
 ---
@@ -64,5 +65,5 @@ The final project is divided into **2 phases**:
 ---
 
 <div align="center">
-  Made with ❤️ by the AP Spring 2026 TA Team
+  Made with ❤️ by the AP 1405 Spring TA Team
 </div>
