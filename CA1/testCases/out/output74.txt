@@ -1,0 +1,102 @@
+List 'Release16' created.
+Task 618 added.
+Task 618 marked as done.
+Task 618 removed.
+Task 5899 added.
+Task 7610 added.
+Task 2110 added.
+Ready tasks: 2110 5899 7610
+Task 1310 added.
+Task 6701 added.
+[pending] 1310: Zeta89
+[pending] 2110: Validate26
+[pending] 5899: Theta57
+[pending] 6701: Clean13
+[pending] 7610: Sync40
+[pending] 1310: Zeta89
+[pending] 2110: Validate26
+[pending] 5899: Theta57
+[pending] 6701: Clean13
+[pending] 7610: Sync40
+Task 2110 marked as done.
+Task 3368 added with 3 deps.
+List 'Phase12' created.
+Task 8229 added.
+Task 8229 marked as done.
+Task 6623 added.
+Pending tasks: 6623 (Link17)
+Task 6623 marked as done.
+Task 2214 added.
+Ready tasks: 2214
+Task 3313 added.
+Task 3044 added.
+Task 6623 removed.
+Task 3313 marked as done.
+Task 3044 marked as done.
+Task 526 added.
+Task 3313: Build11
+Status: done
+Task 526 marked as done.
+Pending tasks: 2214 (Clean85)
+Task 5160 added with 3 deps.
+Task 2214 marked as done.
+Task 5160 marked as done.
+Task 5160 removed.
+[done]    526: Release62
+[done]    2214: Clean85
+[done]    3044: Verify43
+[done]    3313: Build11
+[done]    8229: Clean19
+Task 8276 added.
+Ready tasks: 8276
+Task 9786 added with 1 deps.
+Task 7646 added.
+Task 8094 added.
+Task 316 added with 3 deps.
+Pending tasks: 316 (Load95), 7646 (Alpha98), 8094 (Pull66), 8276 (Scan34), 9786 (Scan76)
+Task 3727 added.
+Task 169 added.
+Task 5631 added.
+Task 4596 added.
+[pending] 169: Run70
+[pending] 316: Load95
+[done]    526: Release62
+[done]    2214: Clean85
+[done]    3044: Verify43
+[done]    3313: Build11
+[pending] 3727: Clean46
+[pending] 4596: Load10
+[pending] 5631: Release65
+[pending] 7646: Alpha98
+[pending] 8094: Pull66
+[done]    8229: Clean19
+[pending] 8276: Scan34
+[pending] 9786: Scan76
+Task 5156 added.
+Task 5092 added.
+Task 3044 removed.
+Task 1678 added with 2 deps.
+Task 2811 added with 3 deps.
+Task 2811: Gamma22
+Status: pending
+Dependencies: 3313 (Build11), 5092 (Cache24), 8276 (Scan34)
+Task 3359 added with 3 deps.
+Task 4312 added.
+Task 5631 marked as done.
+Task 4212 added.
+Task 169 marked as done.
+Task 6945 added with 2 deps.
+Task 8276: Scan34
+Status: pending
+Task 8276 marked as done.
+Ready tasks: 1678 3727 4212 4312 4596 5092 5156 7646 8094 9786
+Task 3500 added.
+Ready tasks: 1678 3500 3727 4212 4312 4596 5092 5156 7646 8094 9786
+Task 7747 added.
+Pending tasks: 316 (Load95), 1678 (Delta62), 2811 (Gamma22), 3359 (Epsilon58), 3500 (Clean80), 3727 (Clean46), 4212 (Parse73), 4312 (Clean90), 4596 (Load10), 5092 (Cache24), 5156 (Clean87), 6945 (Gamma50), 7646 (Alpha98), 7747 (Setup43), 8094 (Pull66), 9786 (Scan76)
+Task 5043 added with 3 deps.
+Task 4312: Clean90
+Status: pending
+Task 524 added.
+Task 9786 marked as done.
+Pending tasks: 316 (Load95), 524 (Sync21), 1678 (Delta62), 2811 (Gamma22), 3359 (Epsilon58), 3500 (Clean80), 3727 (Clean46), 4212 (Parse73), 4312 (Clean90), 4596 (Load10), 5043 (Compile52), 5092 (Cache24), 5156 (Clean87), 6945 (Gamma50), 7646 (Alpha98), 7747 (Setup43), 8094 (Pull66)

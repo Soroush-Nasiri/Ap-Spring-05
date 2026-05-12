@@ -1,0 +1,6 @@
+List 'X' created.
+Task 1 added.
+Task 2 added.
+Task 1 marked as done.
+[done]    1: A
+[pending] 2: B

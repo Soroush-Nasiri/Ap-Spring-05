@@ -1,0 +1,23 @@
+List 'MyProject' created.
+Task 1 added.
+Task 2 added.
+Task 3 added.
+Task 4 added with 2 deps.
+Task 5 added with 1 deps.
+Task 1 marked as done.
+Task 4: Testing
+Status: pending
+Dependencies: 2 (Backend), 3 (Frontend)
+Cannot complete task 4: prerequisites not met.
+Task 2 marked as done.
+Task 3 marked as done.
+Task 4 marked as done.
+[done]    1: Design
+[done]    2: Backend
+[done]    3: Frontend
+[done]    4: Testing
+[pending] 5: Deploy
+Pending tasks: 5 (Deploy)
+Ready tasks: 5
+Task 1 removed.
+Cannot remove task 2: other tasks depend on it.

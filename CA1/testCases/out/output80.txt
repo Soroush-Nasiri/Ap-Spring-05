@@ -1,0 +1,205 @@
+List 'Proj11' created.
+Task 2422 added.
+[pending] 2422: Eta23
+Task 3356 added.
+Task 8836 added.
+Task 8836 marked as done.
+Task 3950 added.
+Task 3356 marked as done.
+Task 8389 added with 1 deps.
+Task 4046 added.
+Task 8389 marked as done.
+Pending tasks: 2422 (Eta23), 3950 (Test87), 4046 (Deploy51)
+Task 8467 added.
+Task 3950 marked as done.
+Task 4046 marked as done.
+Task 7608 added.
+Task 4046: Deploy51
+Status: done
+Pending tasks: 2422 (Eta23), 7608 (Link38), 8467 (Cache37)
+Task 7289 added.
+[pending] 2422: Eta23
+[done]    3356: Build2
+[done]    3950: Test87
+[done]    4046: Deploy51
+[pending] 7289: Merge18
+[pending] 7608: Link38
+[done]    8389: Compile4
+[pending] 8467: Cache37
+[done]    8836: Design70
+Task 7361 added.
+Task 7289 removed.
+Task 6497 added.
+Task 4046: Deploy51
+Status: done
+[pending] 2422: Eta23
+[done]    3356: Build2
+[done]    3950: Test87
+[done]    4046: Deploy51
+[pending] 6497: Load15
+[pending] 7361: Link77
+[pending] 7608: Link38
+[done]    8389: Compile4
+[pending] 8467: Cache37
+[done]    8836: Design70
+Task 8751 added.
+Task 9381 added with 1 deps.
+Task 7608: Link38
+Status: pending
+Task 9381 removed.
+Task 8170 added.
+Task 4111 added with 2 deps.
+Task 3496 added.
+[pending] 2422: Eta23
+[done]    3356: Build2
+[pending] 3496: Release39
+[done]    3950: Test87
+[done]    4046: Deploy51
+[pending] 4111: Validate98
+[pending] 6497: Load15
+[pending] 7361: Link77
+[pending] 7608: Link38
+[pending] 8170: Fetch32
+[done]    8389: Compile4
+[pending] 8467: Cache37
+[pending] 8751: Render70
+[done]    8836: Design70
+Task 2978 added.
+Task 8988 added.
+Pending tasks: 2422 (Eta23), 2978 (Design98), 3496 (Release39), 4111 (Validate98), 6497 (Load15), 7361 (Link77), 7608 (Link38), 8170 (Fetch32), 8467 (Cache37), 8751 (Render70), 8988 (Deploy37)
+Pending tasks: 2422 (Eta23), 2978 (Design98), 3496 (Release39), 4111 (Validate98), 6497 (Load15), 7361 (Link77), 7608 (Link38), 8170 (Fetch32), 8467 (Cache37), 8751 (Render70), 8988 (Deploy37)
+Task 2182 added with 2 deps.
+Task 8225 added.
+Task 5357 added with 1 deps.
+Task 487 added.
+Ready tasks: 487 2422 2978 3496 6497 7361 7608 8170 8225 8467 8751 8988
+Task 6397 added with 3 deps.
+Task 5010 added.
+Task 8170 marked as done.
+Task 203 added.
+Task 8467 marked as done.
+Task 6067 added.
+Pending tasks: 203 (Build12), 487 (Clean77), 2182 (Init61), 2422 (Eta23), 2978 (Design98), 3496 (Release39), 4111 (Validate98), 5010 (Push46), 5357 (Load81), 6067 (Theta77), 6397 (Validate31), 6497 (Load15), 7361 (Link77), 7608 (Link38), 8225 (Format49), 8751 (Render70), 8988 (Deploy37)
+Task 487 marked as done.
+Task 2422: Eta23
+Status: pending
+[pending] 203: Build12
+[done]    487: Clean77
+[pending] 2182: Init61
+[pending] 2422: Eta23
+[pending] 2978: Design98
+[done]    3356: Build2
+[pending] 3496: Release39
+[done]    3950: Test87
+[done]    4046: Deploy51
+[pending] 4111: Validate98
+[pending] 5010: Push46
+[pending] 5357: Load81
+[pending] 6067: Theta77
+[pending] 6397: Validate31
+[pending] 6497: Load15
+[pending] 7361: Link77
+[pending] 7608: Link38
+[done]    8170: Fetch32
+[pending] 8225: Format49
+[done]    8389: Compile4
+[done]    8467: Cache37
+[pending] 8751: Render70
+[done]    8836: Design70
+[pending] 8988: Deploy37
+Task 5012 added.
+Pending tasks: 203 (Build12), 2182 (Init61), 2422 (Eta23), 2978 (Design98), 3496 (Release39), 4111 (Validate98), 5010 (Push46), 5012 (Flush42), 5357 (Load81), 6067 (Theta77), 6397 (Validate31), 6497 (Load15), 7361 (Link77), 7608 (Link38), 8225 (Format49), 8751 (Render70), 8988 (Deploy37)
+Task 9906 added.
+Task 3898 added.
+Task 2700 added.
+Task 6067 marked as done.
+Ready tasks: 203 2422 2700 2978 3496 3898 4111 5010 5012 6497 7361 7608 8225 8751 8988 9906
+Pending tasks: 203 (Build12), 2182 (Init61), 2422 (Eta23), 2700 (Flush19), 2978 (Design98), 3496 (Release39), 3898 (Load81), 4111 (Validate98), 5010 (Push46), 5012 (Flush42), 5357 (Load81), 6397 (Validate31), 6497 (Load15), 7361 (Link77), 7608 (Link38), 8225 (Format49), 8751 (Render70), 8988 (Deploy37), 9906 (Design54)
+Task 1314 added.
+Task 7361: Link77
+Status: pending
+Task 6720 added with 2 deps.
+Task 268 added with 1 deps.
+Task 9906 removed.
+Task 3063 added.
+Task 1347 added.
+Task 9105 added with 2 deps.
+Task 4889 added.
+Task 7361 marked as done.
+Task 7449 added with 1 deps.
+Task 6497 marked as done.
+Pending tasks: 203 (Build12), 268 (Commit2), 1314 (Pull10), 1347 (Format72), 2182 (Init61), 2422 (Eta23), 2700 (Flush19), 2978 (Design98), 3063 (Delta98), 3496 (Release39), 3898 (Load81), 4111 (Validate98), 4889 (Format96), 5010 (Push46), 5012 (Flush42), 5357 (Load81), 6397 (Validate31), 6720 (Theta37), 7449 (Deploy54), 7608 (Link38), 8225 (Format49), 8751 (Render70), 8988 (Deploy37), 9105 (Pull16)
+[pending] 203: Build12
+[pending] 268: Commit2
+[done]    487: Clean77
+[pending] 1314: Pull10
+[pending] 1347: Format72
+[pending] 2182: Init61
+[pending] 2422: Eta23
+[pending] 2700: Flush19
+[pending] 2978: Design98
+[pending] 3063: Delta98
+[done]    3356: Build2
+[pending] 3496: Release39
+[pending] 3898: Load81
+[done]    3950: Test87
+[done]    4046: Deploy51
+[pending] 4111: Validate98
+[pending] 4889: Format96
+[pending] 5010: Push46
+[pending] 5012: Flush42
+[pending] 5357: Load81
+[done]    6067: Theta77
+[pending] 6397: Validate31
+[done]    6497: Load15
+[pending] 6720: Theta37
+[done]    7361: Link77
+[pending] 7449: Deploy54
+[pending] 7608: Link38
+[done]    8170: Fetch32
+[pending] 8225: Format49
+[done]    8389: Compile4
+[done]    8467: Cache37
+[pending] 8751: Render70
+[done]    8836: Design70
+[pending] 8988: Deploy37
+[pending] 9105: Pull16
+Pending tasks: 203 (Build12), 268 (Commit2), 1314 (Pull10), 1347 (Format72), 2182 (Init61), 2422 (Eta23), 2700 (Flush19), 2978 (Design98), 3063 (Delta98), 3496 (Release39), 3898 (Load81), 4111 (Validate98), 4889 (Format96), 5010 (Push46), 5012 (Flush42), 5357 (Load81), 6397 (Validate31), 6720 (Theta37), 7449 (Deploy54), 7608 (Link38), 8225 (Format49), 8751 (Render70), 8988 (Deploy37), 9105 (Pull16)
+[pending] 203: Build12
+[pending] 268: Commit2
+[done]    487: Clean77
+[pending] 1314: Pull10
+[pending] 1347: Format72
+[pending] 2182: Init61
+[pending] 2422: Eta23
+[pending] 2700: Flush19
+[pending] 2978: Design98
+[pending] 3063: Delta98
+[done]    3356: Build2
+[pending] 3496: Release39
+[pending] 3898: Load81
+[done]    3950: Test87
+[done]    4046: Deploy51
+[pending] 4111: Validate98
+[pending] 4889: Format96
+[pending] 5010: Push46
+[pending] 5012: Flush42
+[pending] 5357: Load81
+[done]    6067: Theta77
+[pending] 6397: Validate31
+[done]    6497: Load15
+[pending] 6720: Theta37
+[done]    7361: Link77
+[pending] 7449: Deploy54
+[pending] 7608: Link38
+[done]    8170: Fetch32
+[pending] 8225: Format49
+[done]    8389: Compile4
+[done]    8467: Cache37
+[pending] 8751: Render70
+[done]    8836: Design70
+[pending] 8988: Deploy37
+[pending] 9105: Pull16
+Task 115 added with 2 deps.
+Task 3574 added with 2 deps.
+Task 5012 marked as done.

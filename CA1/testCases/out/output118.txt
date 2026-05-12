@@ -1,0 +1,17 @@
+List 'Proj18' created.
+Task 1528 added.
+Task 7561 added.
+Task 2523 added.
+Task 4782 added.
+Task 4480 added.
+Task 4527 added.
+Task 4378 added.
+Task 4892 added with 1 deps.
+Cannot remove task 4378: other tasks depend on it.
+Cannot complete task 4892: prerequisites not met.
+Task 4480 removed.
+Cannot complete task 4892: prerequisites not met.
+Task 4527 marked as done.
+Task 4782 removed.
+Task 7561 marked as done.
+Task 716 added with 2 deps.

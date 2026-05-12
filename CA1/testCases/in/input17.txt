@@ -1,0 +1,6 @@
+NEW_LIST First
+ADD 1 TaskA
+ADD 2 TaskB
+NEW_LIST Second
+PRINT_ALL
+EXIT

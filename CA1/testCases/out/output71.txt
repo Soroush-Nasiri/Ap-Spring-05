@@ -1,0 +1,115 @@
+List 'Phase11' created.
+Task 6645 added.
+Task 6645: Load73
+Status: pending
+Task 5292 added.
+Task 9815 added with 1 deps.
+Task 8493 added.
+List 'Phase11' created.
+Task 912 added.
+Task 1791 added with 1 deps.
+Task 313 added.
+Task 2810 added with 2 deps.
+Task 912 marked as done.
+Ready tasks: 313 1791
+Task 8844 added.
+Task 5257 added with 2 deps.
+Task 8844: Design98
+Status: pending
+Pending tasks: 313 (Release81), 1791 (Render7), 2810 (Lint80), 5257 (Format55), 8844 (Design98)
+Ready tasks: 313 1791 8844
+Task 688 added.
+Task 7677 added.
+Task 313 marked as done.
+Task 7677 marked as done.
+Task 1268 added.
+Task 6504 added.
+Task 5622 added.
+Task 4197 added with 3 deps.
+Task 6504 marked as done.
+Task 4023 added.
+Task 5722 added.
+Task 4023 marked as done.
+Task 8195 added.
+Task 5257: Format55
+Status: pending
+Dependencies: 1791 (Render7), 2810 (Lint80)
+Task 4000 added with 1 deps.
+Task 5722 removed.
+Task 7677 removed.
+Task 1564 added.
+Task 2810: Lint80
+Status: pending
+Dependencies: 912 (Zeta78), 1791 (Render7)
+Pending tasks: 688 (Clean42), 1268 (Pack87), 1564 (Fetch59), 1791 (Render7), 2810 (Lint80), 4000 (Validate28), 4197 (Delta19), 5257 (Format55), 5622 (Pull36), 8195 (Pull64), 8844 (Design98)
+Task 7640 added with 1 deps.
+Task 45 added.
+Task 5113 added with 1 deps.
+Task 6132 added with 2 deps.
+Task 8844 marked as done.
+Task 45 marked as done.
+Task 5622 marked as done.
+Task 3120 added.
+Task 688: Clean42
+Status: pending
+Ready tasks: 688 1268 1564 1791 3120 4000 6132 8195
+Task 4554 added with 3 deps.
+Task 3120: Clean97
+Status: pending
+Task 3741 added.
+Ready tasks: 688 1268 1564 1791 3120 3741 4000 6132 8195
+Task 3951 added.
+Task 1940 added.
+[done]    45: Lint96
+[done]    313: Release81
+[pending] 688: Clean42
+[done]    912: Zeta78
+[pending] 1268: Pack87
+[pending] 1564: Fetch59
+[pending] 1791: Render7
+[pending] 1940: Alpha72
+[pending] 2810: Lint80
+[pending] 3120: Clean97
+[pending] 3741: Push98
+[pending] 3951: Scan67
+[pending] 4000: Validate28
+[done]    4023: Run97
+[pending] 4197: Delta19
+[pending] 4554: Generate65
+[pending] 5113: Archive89
+[pending] 5257: Format55
+[done]    5622: Pull36
+[pending] 6132: Pack62
+[done]    6504: Pull53
+[pending] 7640: Flush44
+[pending] 8195: Pull64
+[done]    8844: Design98
+Task 4772 added.
+Task 8195 marked as done.
+Ready tasks: 688 1268 1564 1791 1940 3120 3741 3951 4000 4772 5113 6132
+Task 688: Clean42
+Status: pending
+Task 628 added.
+Pending tasks: 628 (Fetch73), 688 (Clean42), 1268 (Pack87), 1564 (Fetch59), 1791 (Render7), 1940 (Alpha72), 2810 (Lint80), 3120 (Clean97), 3741 (Push98), 3951 (Scan67), 4000 (Validate28), 4197 (Delta19), 4554 (Generate65), 4772 (Review49), 5113 (Archive89), 5257 (Format55), 6132 (Pack62), 7640 (Flush44)
+Task 688 removed.
+Task 1791: Render7
+Status: pending
+Dependencies: 912 (Zeta78)
+Task 3120 marked as done.
+Task 2810: Lint80
+Status: pending
+Dependencies: 912 (Zeta78), 1791 (Render7)
+Task 3951 marked as done.
+Task 5110 added.
+Pending tasks: 628 (Fetch73), 1268 (Pack87), 1564 (Fetch59), 1791 (Render7), 1940 (Alpha72), 2810 (Lint80), 3741 (Push98), 4000 (Validate28), 4197 (Delta19), 4554 (Generate65), 4772 (Review49), 5110 (Fetch40), 5113 (Archive89), 5257 (Format55), 6132 (Pack62), 7640 (Flush44)
+Task 3861 added.
+Ready tasks: 628 1268 1564 1791 1940 3741 3861 4000 4772 5110 5113 6132
+Task 1791 marked as done.
+Task 2019 added.
+Task 5110 marked as done.
+Task 5113 marked as done.
+Task 4772 marked as done.
+Task 4790 added.
+Task 2810 marked as done.
+List 'Release13' created.
+Task 8214 added.

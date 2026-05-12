@@ -1,0 +1,4 @@
+NEW_LIST X
+ADD 42 OnlyTask
+PENDING
+EXIT

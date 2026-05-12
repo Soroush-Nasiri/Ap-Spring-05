@@ -1,0 +1,16 @@
+List 'Proj13' created.
+Task 6625 added.
+Task 2092 added.
+Task 442 added.
+Task 9247 added.
+Task 2092 marked as done.
+Task 442 removed.
+Task 9247 marked as done.
+Error: dependency 6907 not found.
+Error: dependency 3674 not found.
+Task 2497 added.
+Task 6625 removed.
+Task 3572 added.
+Task 4199 added with 1 deps.
+Cannot remove task 3572: other tasks depend on it.
+Task 2684 added.

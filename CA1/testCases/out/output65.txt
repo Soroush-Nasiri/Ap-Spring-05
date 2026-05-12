@@ -1,0 +1,77 @@
+List 'Release18' created.
+Task 7906 added.
+Pending tasks: 7906 (Merge77)
+Task 9958 added.
+Task 1210 added.
+Task 8347 added with 2 deps.
+Task 9958: Parse96
+Status: pending
+Task 8881 added.
+Task 5787 added with 1 deps.
+Task 5787: Generate45
+Status: pending
+Dependencies: 8881 (Sync46)
+Task 321 added with 3 deps.
+Task 9958 marked as done.
+Task 8881 marked as done.
+Task 6235 added with 1 deps.
+Task 8233 added with 2 deps.
+Task 6559 added.
+Ready tasks: 1210 5787 6559 7906
+[pending] 321: Flush95
+[pending] 1210: Delta13
+[pending] 5787: Generate45
+[pending] 6235: Compile52
+[pending] 6559: Render1
+[pending] 7906: Merge77
+[pending] 8233: Review38
+[pending] 8347: Merge22
+[done]    8881: Sync46
+[done]    9958: Parse96
+Task 6776 added.
+Task 7906 marked as done.
+Task 321 removed.
+Task 6776 removed.
+Task 5844 added.
+Task 8162 added.
+Task 6235: Compile52
+Status: pending
+Dependencies: 1210 (Delta13)
+Task 6559 marked as done.
+Ready tasks: 1210 5787 5844 8162
+Task 7305 added with 1 deps.
+Task 1533 added.
+Task 6235: Compile52
+Status: pending
+Dependencies: 1210 (Delta13)
+Task 1041 added.
+Task 8522 added with 1 deps.
+Task 1210 marked as done.
+Ready tasks: 1041 1533 5787 5844 6235 8162 8233 8347
+Ready tasks: 1041 1533 5787 5844 6235 8162 8233 8347
+Task 4823 added with 3 deps.
+Task 6549 added.
+Task 2108 added with 2 deps.
+Task 8268 added.
+Task 3066 added.
+Task 473 added.
+Ready tasks: 473 1041 1533 3066 5787 5844 6235 6549 8162 8233 8268 8347
+Task 1041: Push65
+Status: pending
+Task 3029 added with 2 deps.
+Task 473 marked as done.
+Task 8162 marked as done.
+Task 5844 marked as done.
+Task 4657 added.
+Task 8268 marked as done.
+Task 3066: Zeta26
+Status: pending
+Task 8686 added.
+Task 5844 removed.
+Task 7730 added with 3 deps.
+Task 4657 marked as done.
+Ready tasks: 1041 1533 3066 5787 6235 6549 7305 8233 8347 8686
+Task 8686 marked as done.
+Task 9958 removed.
+Task 2174 added with 1 deps.
+Task 1041 marked as done.

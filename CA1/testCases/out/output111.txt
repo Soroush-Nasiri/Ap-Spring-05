@@ -1,0 +1,14 @@
+List 'Phase15' created.
+Task 4051 added.
+Task 8541 added.
+Task 3920 added.
+Task 1270 added.
+Task 8541 removed.
+Task 6679 added with 1 deps.
+Task 1270 removed.
+Error: task 4051 already exists.
+Cannot remove task 3920: other tasks depend on it.
+Task 6679 removed.
+Error: task 3920 already exists.
+Task 3920 removed.
+Task 4472 added with 1 deps.

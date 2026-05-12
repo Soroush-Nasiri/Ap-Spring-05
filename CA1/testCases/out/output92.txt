@@ -1,0 +1,363 @@
+List 'Phase10' created.
+Task 5983 added.
+Task 5983 marked as done.
+Task 5983: Clean20
+Status: done
+Task 5248 added with 1 deps.
+Task 4367 added.
+Task 4367 marked as done.
+Task 9618 added with 1 deps.
+Task 9618 marked as done.
+Task 5248 marked as done.
+Task 5983: Clean20
+Status: done
+Task 7181 added.
+Task 545 added.
+Task 545 marked as done.
+Task 5983: Clean20
+Status: done
+Task 4367: Check82
+Status: done
+Task 622 added.
+Pending tasks: 622 (Review59), 7181 (Archive16)
+Task 3646 added with 3 deps.
+Task 8507 added.
+Task 3344 added with 2 deps.
+Task 5488 added.
+Task 3342 added with 2 deps.
+Ready tasks: 622 3344 5488 7181 8507
+Task 9618: Compile4
+Status: done
+Dependencies: 4367 (Check82)
+Pending tasks: 622 (Review59), 3342 (Test55), 3344 (Render95), 3646 (Alpha33), 5488 (Setup39), 7181 (Archive16), 8507 (Run10)
+Task 7992 added.
+Task 7992 marked as done.
+Task 7388 added.
+Task 3646 removed.
+Task 6015 added.
+Task 7206 added.
+Task 5820 added with 3 deps.
+Task 3890 added.
+Task 2864 added.
+Task 5488 marked as done.
+Task 5101 added.
+Task 7206 marked as done.
+Task 3890 removed.
+[done]    545: Flush28
+[pending] 622: Review59
+[pending] 2864: Clean30
+[pending] 3342: Test55
+[pending] 3344: Render95
+[done]    4367: Check82
+[pending] 5101: Gamma94
+[done]    5248: Release10
+[done]    5488: Setup39
+[pending] 5820: Pull73
+[done]    5983: Clean20
+[pending] 6015: Gamma23
+[pending] 7181: Archive16
+[done]    7206: Scan53
+[pending] 7388: Pack79
+[done]    7992: Run92
+[pending] 8507: Run10
+[done]    9618: Compile4
+Task 5101 marked as done.
+Task 2864 marked as done.
+Task 4367: Check82
+Status: done
+Task 9816 added.
+Task 4367: Check82
+Status: done
+Task 1114 added with 2 deps.
+Task 9816 marked as done.
+Task 4406 added.
+[done]    545: Flush28
+[pending] 622: Review59
+[pending] 1114: Beta44
+[done]    2864: Clean30
+[pending] 3342: Test55
+[pending] 3344: Render95
+[done]    4367: Check82
+[pending] 4406: Link42
+[done]    5101: Gamma94
+[done]    5248: Release10
+[done]    5488: Setup39
+[pending] 5820: Pull73
+[done]    5983: Clean20
+[pending] 6015: Gamma23
+[pending] 7181: Archive16
+[done]    7206: Scan53
+[pending] 7388: Pack79
+[done]    7992: Run92
+[pending] 8507: Run10
+[done]    9618: Compile4
+[done]    9816: Design12
+Task 8507 marked as done.
+Task 1114 marked as done.
+Task 7131 added with 3 deps.
+Task 8943 added.
+Task 4626 added.
+Task 2610 added.
+Task 7388 marked as done.
+Task 9114 added with 3 deps.
+Task 3757 added.
+Pending tasks: 622 (Review59), 2610 (Check50), 3342 (Test55), 3344 (Render95), 3757 (Verify56), 4406 (Link42), 4626 (Zeta90), 5820 (Pull73), 6015 (Gamma23), 7131 (Validate99), 7181 (Archive16), 8943 (Run47), 9114 (Cache79)
+Task 1606 added with 2 deps.
+Task 3102 added.
+Task 7669 added.
+Ready tasks: 622 2610 3102 3344 3757 4406 4626 6015 7181 7669 8943
+Task 6015 marked as done.
+Task 5865 added.
+Task 591 added.
+Task 471 added.
+Task 3757: Verify56
+Status: pending
+Task 9618 removed.
+Task 1059 added.
+Task 6839 added.
+Task 471 marked as done.
+List 'Release10' created.
+Task 3632 added.
+Task 3632 marked as done.
+Task 338 added with 1 deps.
+Task 338: Archive92
+Status: pending
+Dependencies: 3632 (Load43)
+Ready tasks: 338
+[pending] 338: Archive92
+[done]    3632: Load43
+Task 3178 added.
+Task 3178 marked as done.
+Task 5716 added.
+[pending] 338: Archive92
+[done]    3178: Deploy45
+[done]    3632: Load43
+[pending] 5716: Review97
+Task 810 added.
+Task 8035 added with 2 deps.
+Task 1554 added.
+Task 810 marked as done.
+Pending tasks: 338 (Archive92), 1554 (Sync7), 5716 (Review97), 8035 (Setup64)
+Task 5716: Review97
+Status: pending
+Task 8781 added.
+Task 338: Archive92
+Status: pending
+Dependencies: 3632 (Load43)
+Task 1554 marked as done.
+Task 1554: Sync7
+Status: done
+Ready tasks: 338 5716 8035 8781
+[pending] 338: Archive92
+[done]    810: Pack12
+[done]    1554: Sync7
+[done]    3178: Deploy45
+[done]    3632: Load43
+[pending] 5716: Review97
+[pending] 8035: Setup64
+[pending] 8781: Sync66
+Task 8035 removed.
+Task 2900 added.
+Task 4074 added.
+Task 4966 added.
+Task 2900 marked as done.
+Task 5716: Review97
+Status: pending
+Task 3572 added with 2 deps.
+Task 2633 added with 1 deps.
+Task 2958 added.
+Task 283 added.
+[pending] 283: Validate5
+[pending] 338: Archive92
+[done]    810: Pack12
+[done]    1554: Sync7
+[pending] 2633: Delta27
+[done]    2900: Lint17
+[pending] 2958: Clean74
+[done]    3178: Deploy45
+[pending] 3572: Verify65
+[done]    3632: Load43
+[pending] 4074: Commit98
+[pending] 4966: Test9
+[pending] 5716: Review97
+[pending] 8781: Sync66
+Task 6523 added.
+Task 338 marked as done.
+Task 8372 added.
+Task 338: Archive92
+Status: done
+Dependencies: 3632 (Load43)
+Pending tasks: 283 (Validate5), 2633 (Delta27), 2958 (Clean74), 3572 (Verify65), 4074 (Commit98), 4966 (Test9), 5716 (Review97), 6523 (Merge71), 8372 (Delta7), 8781 (Sync66)
+Task 6482 added.
+Task 8955 added.
+Task 4074 marked as done.
+Task 2840 added.
+Task 3572 removed.
+[pending] 283: Validate5
+[done]    338: Archive92
+[done]    810: Pack12
+[done]    1554: Sync7
+[pending] 2633: Delta27
+[pending] 2840: Setup74
+[done]    2900: Lint17
+[pending] 2958: Clean74
+[done]    3178: Deploy45
+[done]    3632: Load43
+[done]    4074: Commit98
+[pending] 4966: Test9
+[pending] 5716: Review97
+[pending] 6482: Load69
+[pending] 6523: Merge71
+[pending] 8372: Delta7
+[pending] 8781: Sync66
+[pending] 8955: Link69
+Task 9880 added.
+Task 8372 marked as done.
+Task 3178 removed.
+Task 1554 removed.
+Task 8591 added with 1 deps.
+Task 7273 added with 2 deps.
+Task 8781 marked as done.
+Task 6216 added.
+[pending] 283: Validate5
+[done]    338: Archive92
+[done]    810: Pack12
+[pending] 2633: Delta27
+[pending] 2840: Setup74
+[done]    2900: Lint17
+[pending] 2958: Clean74
+[done]    3632: Load43
+[done]    4074: Commit98
+[pending] 4966: Test9
+[pending] 5716: Review97
+[pending] 6216: Gamma86
+[pending] 6482: Load69
+[pending] 6523: Merge71
+[pending] 7273: Push31
+[done]    8372: Delta7
+[pending] 8591: Build9
+[done]    8781: Sync66
+[pending] 8955: Link69
+[pending] 9880: Pull10
+Task 6216 marked as done.
+Task 810 removed.
+Pending tasks: 283 (Validate5), 2633 (Delta27), 2840 (Setup74), 2958 (Clean74), 4966 (Test9), 5716 (Review97), 6482 (Load69), 6523 (Merge71), 7273 (Push31), 8591 (Build9), 8955 (Link69), 9880 (Pull10)
+Task 281 added.
+Task 6748 added.
+Pending tasks: 281 (Review61), 283 (Validate5), 2633 (Delta27), 2840 (Setup74), 2958 (Clean74), 4966 (Test9), 5716 (Review97), 6482 (Load69), 6523 (Merge71), 6748 (Design9), 7273 (Push31), 8591 (Build9), 8955 (Link69), 9880 (Pull10)
+Task 7373 added with 3 deps.
+Task 1341 added with 1 deps.
+Task 6403 added.
+Task 281 marked as done.
+List 'Build18' created.
+Task 2657 added.
+Task 6900 added.
+Task 2962 added.
+Task 1641 added with 1 deps.
+Task 3951 added.
+[pending] 1641: Merge87
+[pending] 2657: Push45
+[pending] 2962: Fetch19
+[pending] 3951: Setup35
+[pending] 6900: Init44
+Task 2962: Fetch19
+Status: pending
+Pending tasks: 1641 (Merge87), 2657 (Push45), 2962 (Fetch19), 3951 (Setup35), 6900 (Init44)
+Task 8951 added.
+Ready tasks: 2657 2962 3951 6900 8951
+Task 3951: Setup35
+Status: pending
+Task 5193 added with 1 deps.
+Task 6053 added.
+Task 8175 added with 2 deps.
+Task 8951 marked as done.
+Ready tasks: 2657 2962 3951 6053 6900
+Task 8175 removed.
+Task 2962 marked as done.
+Task 5377 added.
+[pending] 1641: Merge87
+[pending] 2657: Push45
+[done]    2962: Fetch19
+[pending] 3951: Setup35
+[pending] 5193: Alpha15
+[pending] 5377: Cache95
+[pending] 6053: Check99
+[pending] 6900: Init44
+[done]    8951: Lint69
+Task 6053 removed.
+Task 8799 added with 2 deps.
+Task 2657 marked as done.
+Task 9530 added with 1 deps.
+Task 8462 added with 3 deps.
+Task 6749 added with 2 deps.
+Task 1377 added.
+Task 2088 added.
+Task 76 added with 3 deps.
+Task 2757 added with 1 deps.
+Task 6632 added with 2 deps.
+[pending] 76: Render83
+[pending] 1377: Eta70
+[pending] 1641: Merge87
+[pending] 2088: Gamma65
+[done]    2657: Push45
+[pending] 2757: Merge67
+[done]    2962: Fetch19
+[pending] 3951: Setup35
+[pending] 5193: Alpha15
+[pending] 5377: Cache95
+[pending] 6632: Flush45
+[pending] 6749: Lint7
+[pending] 6900: Init44
+[pending] 8462: Zeta93
+[pending] 8799: Setup34
+[done]    8951: Lint69
+[pending] 9530: Epsilon17
+Task 5377 marked as done.
+Task 9245 added with 1 deps.
+Task 1377: Eta70
+Status: pending
+Task 3951 marked as done.
+Task 6194 added.
+Task 6900 marked as done.
+Task 2757 marked as done.
+Pending tasks: 76 (Render83), 1377 (Eta70), 1641 (Merge87), 2088 (Gamma65), 5193 (Alpha15), 6194 (Init61), 6632 (Flush45), 6749 (Lint7), 8462 (Zeta93), 8799 (Setup34), 9245 (Validate20), 9530 (Epsilon17)
+[pending] 76: Render83
+[pending] 1377: Eta70
+[pending] 1641: Merge87
+[pending] 2088: Gamma65
+[done]    2657: Push45
+[done]    2757: Merge67
+[done]    2962: Fetch19
+[done]    3951: Setup35
+[pending] 5193: Alpha15
+[done]    5377: Cache95
+[pending] 6194: Init61
+[pending] 6632: Flush45
+[pending] 6749: Lint7
+[done]    6900: Init44
+[pending] 8462: Zeta93
+[pending] 8799: Setup34
+[done]    8951: Lint69
+[pending] 9245: Validate20
+[pending] 9530: Epsilon17
+Task 6862 added with 3 deps.
+Task 7768 added.
+Task 9189 added.
+Ready tasks: 1377 1641 2088 6194 7768 9189
+Task 2393 added.
+Ready tasks: 1377 1641 2088 2393 6194 7768 9189
+Task 8951: Lint69
+Status: done
+Task 519 added with 2 deps.
+Task 1869 added.
+Task 5377: Cache95
+Status: done
+Task 9755 added.
+Task 2088 marked as done.
+Task 4162 added with 3 deps.
+Task 172 added with 1 deps.
+Task 94 added with 3 deps.
+Task 5447 added.
+Task 9755: Fetch26
+Status: pending
+Task 4807 added with 2 deps.

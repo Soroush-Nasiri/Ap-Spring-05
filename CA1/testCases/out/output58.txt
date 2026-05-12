@@ -1,0 +1,7 @@
+List 'X' created.
+Task 1000 added.
+Task 9999 added with 1 deps.
+Task 1000 marked as done.
+Task 9999 marked as done.
+[done]    1000: BigTask
+[done]    9999: Final

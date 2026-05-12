@@ -1,0 +1,12 @@
+List 'Task7' created.
+Task 9081 added.
+Task 3539 added.
+Task 2160 added.
+Task 4348 added with 2 deps.
+Task 3539 removed.
+Task 7803 added.
+Task 7406 added.
+Cannot remove task 9081: other tasks depend on it.
+Task 7406 marked as done.
+Error: task 9081 already exists.
+Cannot complete task 4348: prerequisites not met.

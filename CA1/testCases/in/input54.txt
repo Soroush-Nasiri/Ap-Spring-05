@@ -1,0 +1,7 @@
+NEW_LIST Chain
+ADD 1 Step1
+ADD_DEP 2 Step2 1
+ADD_DEP 3 Step3 2
+DONE 1
+DONE 3
+EXIT

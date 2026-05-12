@@ -1,0 +1,16 @@
+List 'Proj1' created.
+Task 4013 added.
+Task 1680 added.
+Task 9675 added.
+Task 489 added.
+Task 4558 added.
+Task 2616 added with 1 deps.
+Cannot remove task 4558: other tasks depend on it.
+Task 1680 marked as done.
+Task 6225 added with 2 deps.
+Task 489 marked as done.
+Task 7528 added.
+Cannot complete task 2616: prerequisites not met.
+Task 4558 marked as done.
+Cannot remove task 4013: other tasks depend on it.
+Task 751 added.

@@ -1,0 +1,5 @@
+List 'X' created.
+Task 5 added.
+Task 2 added.
+Task 8 added.
+Ready tasks: 2 5 8

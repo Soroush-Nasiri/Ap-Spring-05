@@ -1,0 +1,17 @@
+List 'X' created.
+Task 1 added.
+Task 2 added.
+Task 3 added with 1 deps.
+Task 4 added with 1 deps.
+Task 3: C
+Status: pending
+Dependencies: 2 (B)
+Task 4: D
+Status: pending
+Dependencies: 3 (C)
+Task 2 marked as done.
+Task 3 marked as done.
+Task 4: D
+Status: pending
+Dependencies: 3 (C)
+Ready tasks: 1 4

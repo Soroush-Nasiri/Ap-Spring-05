@@ -1,0 +1,104 @@
+List 'Proj6' created.
+Task 626 added.
+Task 1412 added.
+Pending tasks: 626 (Archive93), 1412 (Fetch65)
+Task 1412 marked as done.
+Task 626 marked as done.
+Task 1412: Fetch65
+Status: done
+Task 88 added with 2 deps.
+Task 88: Build56
+Status: pending
+Dependencies: 626 (Archive93), 1412 (Fetch65)
+Task 6795 added.
+Task 88 marked as done.
+Task 2675 added with 2 deps.
+Task 542 added.
+Task 3324 added.
+Task 88: Build56
+Status: done
+Dependencies: 626 (Archive93), 1412 (Fetch65)
+Task 3324 marked as done.
+Task 8042 added with 1 deps.
+Task 7232 added.
+Task 8042 marked as done.
+Task 7263 added.
+Task 88: Build56
+Status: done
+Dependencies: 626 (Archive93), 1412 (Fetch65)
+Task 7263 marked as done.
+Task 6944 added.
+Task 6057 added.
+Task 542 marked as done.
+Task 542 removed.
+[done]    88: Build56
+[done]    626: Archive93
+[done]    1412: Fetch65
+[pending] 2675: Flush76
+[done]    3324: Link52
+[pending] 6057: Cache61
+[pending] 6795: Pack22
+[pending] 6944: Eta34
+[pending] 7232: Check85
+[done]    7263: Alpha54
+[done]    8042: Verify50
+Task 8661 added.
+Pending tasks: 2675 (Flush76), 6057 (Cache61), 6795 (Pack22), 6944 (Eta34), 7232 (Check85), 8661 (Zeta76)
+Task 88: Build56
+Status: done
+Dependencies: 626 (Archive93), 1412 (Fetch65)
+List 'Phase19' created.
+Task 6215 added.
+Task 2161 added with 1 deps.
+Pending tasks: 2161 (Epsilon15), 6215 (Scan25)
+Pending tasks: 2161 (Epsilon15), 6215 (Scan25)
+Task 8399 added.
+Task 476 added.
+Task 6215 marked as done.
+Task 476 marked as done.
+Task 3511 added.
+Task 8399 marked as done.
+List 'Sprint9' created.
+Task 4538 added.
+Task 6619 added with 1 deps.
+Task 4704 added with 1 deps.
+Task 6665 added.
+Task 6665 marked as done.
+Task 8550 added with 2 deps.
+Pending tasks: 4538 (Format95), 4704 (Design70), 6619 (Format29), 8550 (Test53)
+Task 6605 added.
+Task 2143 added with 1 deps.
+Task 7779 added.
+List 'Release11' created.
+Task 8131 added.
+Task 8131: Scan70
+Status: pending
+Task 6542 added with 1 deps.
+List 'Release19' created.
+Task 6454 added.
+Task 6454 marked as done.
+[done]    6454: Check3
+[done]    6454: Check3
+List 'Proj8' created.
+Task 2695 added.
+Task 2695 removed.
+Task 4537 added.
+List 'Sprint20' created.
+Task 7958 added.
+Task 7958 marked as done.
+Task 1131 added with 1 deps.
+Task 6453 added with 1 deps.
+[pending] 1131: Alpha52
+[pending] 6453: Format18
+[done]    7958: Test30
+List 'Sprint16' created.
+List 'Phase5' created.
+Task 8548 added.
+Task 7304 added.
+Task 6104 added.
+Task 7304 marked as done.
+Task 9539 added with 1 deps.
+Task 1100 added with 3 deps.
+Pending tasks: 1100 (Cache89), 6104 (Pack6), 8548 (Epsilon25), 9539 (Setup7)
+Ready tasks: 6104 8548
+List 'Sprint13' created.

@@ -1,0 +1,15 @@
+List 'Phase18' created.
+Task 4343 added.
+Task 6933 added.
+Task 3296 added.
+Task 4343 marked as done.
+Task 9076 added.
+Task 3609 added with 1 deps.
+Cannot remove task 9076: other tasks depend on it.
+Task 3751 added.
+Error: dependency 1161 not found.
+Error: task 8835 not found.
+Task 6933 removed.
+Task 3751 removed.
+Task 7063 added with 1 deps.
+Task 3609 removed.

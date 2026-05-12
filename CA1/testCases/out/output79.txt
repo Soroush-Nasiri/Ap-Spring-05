@@ -1,0 +1,120 @@
+List 'Phase1' created.
+Task 2035 added.
+Ready tasks: 2035
+Task 2209 added with 1 deps.
+Task 2209: Check33
+Status: pending
+Dependencies: 2035 (Gamma88)
+[pending] 2035: Gamma88
+[pending] 2209: Check33
+Task 7873 added.
+Task 1473 added with 3 deps.
+Task 7873 marked as done.
+Task 2035 marked as done.
+Task 1473 removed.
+[done]    2035: Gamma88
+[pending] 2209: Check33
+[done]    7873: Init99
+Task 3864 added.
+Task 3864 marked as done.
+Task 9269 added with 3 deps.
+Pending tasks: 2209 (Check33), 9269 (Pull61)
+Task 2537 added with 3 deps.
+Task 403 added with 2 deps.
+Task 2209 marked as done.
+Task 5738 added with 2 deps.
+Task 3353 added.
+Task 8682 added.
+Task 3353 marked as done.
+Task 3864: Review2
+Status: done
+Task 3353: Check49
+Status: done
+Ready tasks: 8682 9269
+Task 1186 added with 2 deps.
+Task 9269: Pull61
+Status: pending
+Dependencies: 2209 (Check33), 3864 (Review2), 7873 (Init99)
+Task 119 added.
+Task 9269 marked as done.
+Task 511 added.
+Pending tasks: 119 (Pull58), 403 (Link68), 511 (Generate71), 1186 (Gamma36), 2537 (Beta34), 5738 (Pack22), 8682 (Run70)
+Task 2264 added.
+Task 9034 added with 2 deps.
+Task 7435 added.
+Task 9583 added with 1 deps.
+Task 6996 added.
+Task 6996 marked as done.
+Task 6996: Gamma58
+Status: done
+Task 7815 added with 3 deps.
+Ready tasks: 119 403 511 2264 2537 7435 8682 9583
+Task 9417 added with 3 deps.
+Task 1160 added with 3 deps.
+Task 4959 added.
+Task 1893 added with 3 deps.
+Task 6889 added with 2 deps.
+Task 3000 added with 3 deps.
+Task 2537 marked as done.
+Ready tasks: 119 403 511 2264 4959 6889 7435 8682 9583
+Task 2264 marked as done.
+Task 6479 added with 3 deps.
+Task 6107 added with 3 deps.
+Task 6126 added.
+Task 3000 removed.
+Task 1160: Verify99
+Status: pending
+Dependencies: 119 (Pull58), 9269 (Pull61), 9583 (Beta31)
+Task 1893 removed.
+Task 6372 added.
+Task 511 marked as done.
+Task 8891 added.
+Task 2376 added.
+Task 4959 removed.
+Pending tasks: 119 (Pull58), 403 (Link68), 1160 (Verify99), 1186 (Gamma36), 2376 (Init11), 5738 (Pack22), 6107 (Load29), 6126 (Test82), 6372 (Pull95), 6479 (Pull59), 6889 (Delta85), 7435 (Validate20), 7815 (Test69), 8682 (Run70), 8891 (Deploy8), 9034 (Beta2), 9417 (Run64), 9583 (Beta31)
+Pending tasks: 119 (Pull58), 403 (Link68), 1160 (Verify99), 1186 (Gamma36), 2376 (Init11), 5738 (Pack22), 6107 (Load29), 6126 (Test82), 6372 (Pull95), 6479 (Pull59), 6889 (Delta85), 7435 (Validate20), 7815 (Test69), 8682 (Run70), 8891 (Deploy8), 9034 (Beta2), 9417 (Run64), 9583 (Beta31)
+Ready tasks: 119 403 2376 6107 6126 6372 6889 7435 8682 8891 9034 9583
+[pending] 119: Pull58
+[pending] 403: Link68
+[done]    511: Generate71
+[pending] 1160: Verify99
+[pending] 1186: Gamma36
+[done]    2035: Gamma88
+[done]    2209: Check33
+[done]    2264: Lint33
+[pending] 2376: Init11
+[done]    2537: Beta34
+[done]    3353: Check49
+[done]    3864: Review2
+[pending] 5738: Pack22
+[pending] 6107: Load29
+[pending] 6126: Test82
+[pending] 6372: Pull95
+[pending] 6479: Pull59
+[pending] 6889: Delta85
+[done]    6996: Gamma58
+[pending] 7435: Validate20
+[pending] 7815: Test69
+[done]    7873: Init99
+[pending] 8682: Run70
+[pending] 8891: Deploy8
+[pending] 9034: Beta2
+[done]    9269: Pull61
+[pending] 9417: Run64
+[pending] 9583: Beta31
+Task 9583 marked as done.
+Task 9034 marked as done.
+Task 956 added.
+Task 2565 added.
+Task 403 marked as done.
+Task 6889 marked as done.
+Task 6126 marked as done.
+Task 8682 marked as done.
+Task 2537 removed.
+Task 7248 added.
+Task 8891 marked as done.
+Task 1160 removed.
+Task 5831 added.
+Task 1597 added.
+Task 7815 marked as done.
+Task 5932 added with 1 deps.

@@ -1,0 +1,9 @@
+List 'A' created.
+Task 1 added.
+List 'B' created.
+Task 1 added.
+Task 2 added.
+List 'C' created.
+Task 1 added.
+Pending tasks: 1 (T1)
+[pending] 1: T1

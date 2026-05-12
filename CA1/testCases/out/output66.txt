@@ -1,0 +1,125 @@
+List 'Release11' created.
+Task 1126 added.
+Task 1622 added.
+Task 1126 marked as done.
+Task 5690 added.
+Task 7438 added.
+Task 5690: Eta10
+Status: pending
+Task 2186 added with 2 deps.
+Pending tasks: 1622 (Beta63), 2186 (Commit35), 5690 (Eta10), 7438 (Zeta30)
+Task 7438 marked as done.
+Task 1622 marked as done.
+Ready tasks: 5690
+Task 7438: Zeta30
+Status: done
+Task 5690 marked as done.
+Task 2186 marked as done.
+Task 2754 added.
+Task 2754 marked as done.
+Task 5690: Eta10
+Status: done
+Task 3990 added with 2 deps.
+Task 2754: Test3
+Status: done
+Task 8284 added with 3 deps.
+Task 4766 added with 2 deps.
+Task 3990 marked as done.
+Task 8284 removed.
+Task 2186 removed.
+Task 6142 added.
+Task 1126: Check27
+Status: done
+Task 7730 added.
+Task 384 added.
+Task 1126: Check27
+Status: done
+Ready tasks: 384 4766 6142 7730
+Task 4485 added with 1 deps.
+Task 2781 added with 2 deps.
+Task 384 marked as done.
+Task 4485 marked as done.
+Task 3990: Link73
+Status: done
+Dependencies: 1622 (Beta63), 7438 (Zeta30)
+Task 4779 added.
+Pending tasks: 2781 (Review1), 4766 (Zeta61), 4779 (Build16), 6142 (Validate83), 7730 (Review78)
+Task 43 added with 3 deps.
+Task 4485: Format90
+Status: done
+Dependencies: 2754 (Test3)
+Task 3655 added.
+Task 4822 added.
+Pending tasks: 43 (Generate32), 2781 (Review1), 3655 (Verify65), 4766 (Zeta61), 4779 (Build16), 4822 (Cache20), 6142 (Validate83), 7730 (Review78)
+Task 8784 added with 1 deps.
+Task 3655 marked as done.
+Task 4913 added.
+Task 3330 added with 3 deps.
+Task 5446 added.
+Task 9396 added with 3 deps.
+Task 2355 added.
+Task 9349 added with 2 deps.
+Task 1089 added with 2 deps.
+Task 4485: Format90
+Status: done
+Dependencies: 2754 (Test3)
+Task 6142 marked as done.
+Task 1790 added.
+[pending] 43: Generate32
+[done]    384: Commit85
+[pending] 1089: Delta9
+[done]    1126: Check27
+[done]    1622: Beta63
+[pending] 1790: Delta97
+[pending] 2355: Sync42
+[done]    2754: Test3
+[pending] 2781: Review1
+[pending] 3330: Check30
+[done]    3655: Verify65
+[done]    3990: Link73
+[done]    4485: Format90
+[pending] 4766: Zeta61
+[pending] 4779: Build16
+[pending] 4822: Cache20
+[pending] 4913: Lint15
+[pending] 5446: Check83
+[done]    5690: Eta10
+[done]    6142: Validate83
+[done]    7438: Zeta30
+[pending] 7730: Review78
+[pending] 8784: Render52
+[pending] 9349: Archive37
+[pending] 9396: Theta73
+Ready tasks: 1790 2355 4766 4779 4822 4913 5446 7730 8784
+Task 8260 added.
+[pending] 43: Generate32
+[done]    384: Commit85
+[pending] 1089: Delta9
+[done]    1126: Check27
+[done]    1622: Beta63
+[pending] 1790: Delta97
+[pending] 2355: Sync42
+[done]    2754: Test3
+[pending] 2781: Review1
+[pending] 3330: Check30
+[done]    3655: Verify65
+[done]    3990: Link73
+[done]    4485: Format90
+[pending] 4766: Zeta61
+[pending] 4779: Build16
+[pending] 4822: Cache20
+[pending] 4913: Lint15
+[pending] 5446: Check83
+[done]    5690: Eta10
+[done]    6142: Validate83
+[done]    7438: Zeta30
+[pending] 7730: Review78
+[pending] 8260: Generate92
+[pending] 8784: Render52
+[pending] 9349: Archive37
+[pending] 9396: Theta73
+Task 1089: Delta9
+Status: pending
+Dependencies: 1126 (Check27), 8784 (Render52)
+Task 4822: Cache20
+Status: pending

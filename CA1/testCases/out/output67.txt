@@ -1,0 +1,24 @@
+List 'Soroush' created.
+Task 3 added.
+Error: task 3 already exists.
+Task 1 added.
+Task 2 added with 2 deps.
+Error: task 5 not found.
+Cannot remove task 3: other tasks depend on it.
+Task 4 added.
+Error: task 4 already exists.
+Task 5 added with 2 deps.
+Cannot complete task 2: prerequisites not met.
+Cannot complete task 5: prerequisites not met.
+Task 4 marked as done.
+Task 3 marked as done.
+Task 5 marked as done.
+[pending] 1: BIBI
+[pending] 2: SHISHI
+[done]    3: coco
+[done]    4: ZIZI
+[done]    5: KAKA
+Cannot remove task 4: other tasks depend on it.
+Cannot remove task 1: other tasks depend on it.
+Task 5 removed.
+Task 4 removed.

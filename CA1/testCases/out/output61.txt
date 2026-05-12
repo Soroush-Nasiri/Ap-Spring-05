@@ -1,0 +1,87 @@
+List 'Build5' created.
+Task 2769 added.
+Task 2769 marked as done.
+Task 3501 added.
+Task 216 added with 2 deps.
+Task 9068 added.
+Task 5037 added with 3 deps.
+Task 8280 added.
+Task 3501 marked as done.
+Task 1968 added.
+Task 216 marked as done.
+[done]    216: Init30
+[pending] 1968: Test78
+[done]    2769: Design64
+[done]    3501: Review67
+[pending] 5037: Deploy48
+[pending] 8280: Lint86
+[pending] 9068: Pull40
+Task 9068: Pull40
+Status: pending
+[done]    216: Init30
+[pending] 1968: Test78
+[done]    2769: Design64
+[done]    3501: Review67
+[pending] 5037: Deploy48
+[pending] 8280: Lint86
+[pending] 9068: Pull40
+Task 2769: Design64
+Status: done
+Task 8280 removed.
+Task 8694 added.
+Task 509 added.
+Task 1143 added.
+Task 3926 added with 3 deps.
+Task 1143 marked as done.
+Task 509: Test7
+Status: pending
+Task 1143: Gamma14
+Status: done
+Task 5037 removed.
+Task 9259 added.
+Task 8612 added.
+Pending tasks: 509 (Test7), 1968 (Test78), 3926 (Validate84), 8612 (Compile34), 8694 (Verify63), 9068 (Pull40), 9259 (Flush66)
+Task 4936 added with 3 deps.
+Task 3274 added with 1 deps.
+Task 7921 added.
+Task 1326 added.
+Task 3690 added with 1 deps.
+Task 2678 added with 3 deps.
+Task 9053 added.
+Task 9053: Check21
+Status: pending
+Task 9068 marked as done.
+Task 4298 added.
+Task 1096 added with 2 deps.
+Task 8694 marked as done.
+Task 1149 added.
+Task 8612: Compile34
+Status: pending
+Task 1640 added with 2 deps.
+Task 3926: Validate84
+Status: pending
+Dependencies: 509 (Test7), 1143 (Gamma14), 1968 (Test78)
+Task 1326: Scan7
+Status: pending
+Task 6135 added with 2 deps.
+Task 1968 marked as done.
+Task 9261 added.
+Pending tasks: 509 (Test7), 1096 (Build45), 1149 (Archive20), 1326 (Scan7), 1640 (Pull28), 2678 (Pack56), 3274 (Flush38), 3690 (Run11), 3926 (Validate84), 4298 (Pull39), 4936 (Render25), 6135 (Eta36), 7921 (Check57), 8612 (Compile34), 9053 (Check21), 9259 (Flush66), 9261 (Scan56)
+Task 366 added.
+Task 4298 marked as done.
+Task 509 marked as done.
+Task 1096: Build45
+Status: pending
+Dependencies: 2678 (Pack56), 4936 (Render25)
+Task 6767 added.
+Task 9259 marked as done.
+Task 174 added.
+Task 562 added with 1 deps.
+Task 2678: Pack56
+Status: pending
+Dependencies: 216 (Init30), 3690 (Run11), 8612 (Compile34)
+Task 9053 removed.
+Ready tasks: 174 366 562 1149 1326 3274 3690 3926 6767 7921 8612 9261
+Task 509: Test7
+Status: done
+List 'Phase19' created.

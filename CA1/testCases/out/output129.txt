@@ -1,0 +1,14 @@
+List 'Build5' created.
+Task 6938 added.
+Task 299 added.
+Task 4847 added.
+Task 5518 added.
+Task 6173 added.
+Task 2963 added with 1 deps.
+Cannot remove task 6173: other tasks depend on it.
+Task 6938 removed.
+Cannot complete task 2963: prerequisites not met.
+Task 7356 added with 2 deps.
+Task 6027 added with 2 deps.
+Task 7356 removed.
+Cannot complete task 6027: prerequisites not met.

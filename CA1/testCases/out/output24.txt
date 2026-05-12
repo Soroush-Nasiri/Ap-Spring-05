@@ -1,0 +1,8 @@
+List 'X' created.
+Task 1 added.
+Task 2 added.
+Task 3 added.
+Task 4 added with 3 deps.
+Task 1 marked as done.
+Task 2 marked as done.
+Cannot complete task 4: prerequisites not met.

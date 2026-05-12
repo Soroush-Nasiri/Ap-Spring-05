@@ -1,0 +1,109 @@
+List 'Proj17' created.
+Task 1119 added.
+Task 1119: Verify42
+Status: pending
+Task 3673 added.
+Task 1119: Verify42
+Status: pending
+Task 9402 added with 2 deps.
+Task 9402 removed.
+Task 9297 added.
+Task 3051 added.
+Pending tasks: 1119 (Verify42), 3051 (Lint38), 3673 (Alpha2), 9297 (Release15)
+Task 4458 added with 1 deps.
+Task 3673 removed.
+Pending tasks: 1119 (Verify42), 3051 (Lint38), 4458 (Build52), 9297 (Release15)
+Task 3709 added.
+Task 9297: Release15
+Status: pending
+Task 5053 added with 2 deps.
+Task 3977 added.
+Task 1119: Verify42
+Status: pending
+Ready tasks: 1119 3051 3709 3977 9297
+[pending] 1119: Verify42
+[pending] 3051: Lint38
+[pending] 3709: Format49
+[pending] 3977: Clean42
+[pending] 4458: Build52
+[pending] 5053: Pull63
+[pending] 9297: Release15
+Pending tasks: 1119 (Verify42), 3051 (Lint38), 3709 (Format49), 3977 (Clean42), 4458 (Build52), 5053 (Pull63), 9297 (Release15)
+Task 9703 added with 3 deps.
+Task 7661 added.
+Task 7661 marked as done.
+Task 3709 marked as done.
+Task 9378 added.
+Task 7526 added.
+List 'Proj3' created.
+Task 309 added.
+Pending tasks: 309 (Release44)
+Task 737 added.
+Ready tasks: 309 737
+Ready tasks: 309 737
+Task 309 removed.
+Task 8927 added with 1 deps.
+[pending] 737: Merge97
+[pending] 8927: Pull55
+[pending] 737: Merge97
+[pending] 8927: Pull55
+Task 2360 added with 2 deps.
+Task 4770 added.
+Pending tasks: 737 (Merge97), 2360 (Beta79), 4770 (Design7), 8927 (Pull55)
+Task 4770: Design7
+Status: pending
+Task 2360 removed.
+List 'Sprint13' created.
+Task 5221 added.
+Task 845 added.
+Task 845 marked as done.
+Task 7965 added.
+Task 8580 added.
+Task 9861 added.
+Pending tasks: 5221 (Zeta94), 7965 (Validate35), 8580 (Check36), 9861 (Scan8)
+Task 996 added.
+Ready tasks: 996 5221 7965 8580 9861
+Task 8580 removed.
+Task 7965: Validate35
+Status: pending
+[done]    845: Alpha56
+[pending] 996: Pack52
+[pending] 5221: Zeta94
+[pending] 7965: Validate35
+[pending] 9861: Scan8
+Task 1374 added.
+Task 1374 marked as done.
+Task 4670 added.
+Task 8754 added.
+Task 2385 added.
+Task 6252 added.
+Task 996 marked as done.
+Task 1642 added.
+Task 8754: Flush60
+Status: pending
+Task 2385: Commit40
+Status: pending
+Task 737 added.
+Task 737 marked as done.
+Task 7964 added.
+List 'Build10' created.
+List 'Proj2' created.
+Task 5482 added.
+List 'Release7' created.
+Task 7806 added.
+Task 7806 removed.
+List 'Proj16' created.
+Task 3220 added.
+Task 5071 added.
+Task 5071 marked as done.
+Task 5071: Lint26
+Status: done
+Task 6129 added.
+List 'Phase6' created.
+Task 3225 added.
+List 'Sprint4' created.
+Task 897 added.
+Task 897 removed.
+Task 130 added.
+Task 130 marked as done.
+Task 1430 added.

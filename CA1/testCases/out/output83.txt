@@ -1,0 +1,122 @@
+List 'Release17' created.
+Task 6082 added.
+Task 7320 added with 1 deps.
+Task 3376 added.
+List 'Proj16' created.
+Task 6088 added.
+Task 6261 added.
+Pending tasks: 6088 (Archive22), 6261 (Load85)
+Pending tasks: 6088 (Archive22), 6261 (Load85)
+Task 6261 marked as done.
+Task 6088 marked as done.
+Task 1764 added.
+Task 6261: Load85
+Status: done
+Pending tasks: 1764 (Review99)
+Task 6088 removed.
+Task 1764 removed.
+Task 1248 added with 1 deps.
+Task 7179 added with 2 deps.
+Task 9154 added.
+Task 8389 added.
+Task 9154: Push45
+Status: pending
+Task 3217 added.
+Task 37 added.
+Task 1248 marked as done.
+Task 9154 marked as done.
+Task 7179 marked as done.
+Task 7179 removed.
+Task 457 added with 1 deps.
+Task 37 marked as done.
+Task 4239 added with 3 deps.
+Task 3217 marked as done.
+Task 2982 added.
+Task 8389 marked as done.
+Task 5146 added.
+Task 457 marked as done.
+Pending tasks: 2982 (Lint78), 4239 (Validate93), 5146 (Compile19)
+Task 5146 marked as done.
+Task 5394 added.
+Task 8389 removed.
+Task 8148 added.
+Task 37: Init40
+Status: done
+Task 6624 added with 1 deps.
+Task 6069 added with 1 deps.
+Task 4239: Validate93
+Status: pending
+Dependencies: 457 (Link16), 1248 (Review82), 9154 (Push45)
+Task 654 added.
+Task 5394 marked as done.
+Task 1553 added with 2 deps.
+Task 8643 added with 1 deps.
+Task 4239: Validate93
+Status: pending
+Dependencies: 457 (Link16), 1248 (Review82), 9154 (Push45)
+[done]    37: Init40
+[done]    457: Link16
+[pending] 654: Fetch42
+[done]    1248: Review82
+[pending] 1553: Epsilon43
+[pending] 2982: Lint78
+[done]    3217: Archive94
+[pending] 4239: Validate93
+[done]    5146: Compile19
+[done]    5394: Merge13
+[pending] 6069: Compile33
+[done]    6261: Load85
+[pending] 6624: Check31
+[pending] 8148: Render77
+[pending] 8643: Merge55
+[done]    9154: Push45
+Task 9201 added.
+Task 6069 removed.
+Task 6624 marked as done.
+List 'Proj17' created.
+Task 513 added.
+Task 6106 added.
+Task 513 marked as done.
+Task 8460 added with 1 deps.
+Task 3122 added.
+Task 5574 added.
+List 'Release11' created.
+Task 2226 added.
+Task 2226 marked as done.
+Task 7361 added.
+Task 2226: Fetch8
+Status: done
+Task 7814 added.
+Task 7814 marked as done.
+Task 7361 removed.
+Task 2226: Fetch8
+Status: done
+Task 7904 added.
+Task 2226: Fetch8
+Status: done
+Task 2226: Fetch8
+Status: done
+Task 7904 marked as done.
+Task 6029 added with 1 deps.
+Task 5743 added.
+Task 7172 added with 3 deps.
+Task 927 added with 3 deps.
+Pending tasks: 927 (Run35), 5743 (Test17), 6029 (Review15), 7172 (Verify30)
+Task 6029 marked as done.
+Task 5743 marked as done.
+Task 7172 marked as done.
+Task 5612 added.
+Task 2140 added.
+Task 927 removed.
+Task 9586 added.
+Task 6029 removed.
+Task 2140 removed.
+Task 5281 added.
+Task 450 added with 3 deps.
+Task 6765 added.
+Task 9153 added.
+Task 7577 added.
+Task 5281 marked as done.
+Task 6765 removed.
+Task 5612 marked as done.
+Task 9610 added with 2 deps.

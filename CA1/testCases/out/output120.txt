@@ -1,0 +1,14 @@
+List 'Sprint6' created.
+Task 9986 added.
+Task 3946 added.
+Task 3946 removed.
+Task 2589 added.
+Task 5662 added with 1 deps.
+Cannot remove task 2589: other tasks depend on it.
+Cannot complete task 5662: prerequisites not met.
+Task 5662 removed.
+Task 3887 added with 2 deps.
+Task 2589 marked as done.
+Task 9986 marked as done.
+Task 3887 removed.
+Error: task 9986 already exists.

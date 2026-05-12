@@ -1,0 +1,14 @@
+List 'Proj10' created.
+Task 654 added.
+Task 4089 added.
+Task 9174 added.
+Task 2533 added.
+Task 4089 marked as done.
+Task 6268 added.
+Task 5729 added with 1 deps.
+Task 3165 added with 1 deps.
+Task 654 marked as done.
+Error: dependency 5754 not found.
+Cannot remove task 5729: other tasks depend on it.
+Task 1890 added.
+Cannot remove task 5729: other tasks depend on it.

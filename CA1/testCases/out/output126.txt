@@ -1,0 +1,15 @@
+List 'Task15' created.
+Task 4476 added.
+Task 8395 added.
+Task 7044 added.
+Task 9718 added.
+Task 5054 added.
+Task 7044 marked as done.
+Task 127 added.
+Task 8395 removed.
+Task 8197 added with 2 deps.
+Error: dependency 1181 not found.
+Cannot remove task 127: other tasks depend on it.
+Task 8197 removed.
+Error: dependency 1888 not found.
+Task 4476 marked as done.

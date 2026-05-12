@@ -1,0 +1,6 @@
+List 'X' created.
+Task 1 added.
+Task 2 added with 1 deps.
+Task 3 added with 1 deps.
+Task 1 marked as done.
+Ready tasks: 2

@@ -1,0 +1,238 @@
+List 'Release17' created.
+Task 1480 added.
+Task 3638 added.
+[pending] 1480: Load41
+[pending] 3638: Push37
+Task 8240 added.
+Task 3638: Push37
+Status: pending
+Task 5522 added.
+[pending] 1480: Load41
+[pending] 3638: Push37
+[pending] 5522: Generate61
+[pending] 8240: Load57
+Task 8240: Load57
+Status: pending
+Task 1901 added.
+Ready tasks: 1480 1901 3638 5522 8240
+Task 3595 added with 1 deps.
+Task 8240 marked as done.
+Task 1879 added.
+Task 3638 marked as done.
+Task 6520 added.
+Task 4181 added with 3 deps.
+Task 5522 marked as done.
+Task 2961 added.
+Task 2562 added with 1 deps.
+Task 5064 added with 3 deps.
+Pending tasks: 1480 (Load41), 1879 (Review21), 1901 (Alpha30), 2562 (Verify47), 2961 (Build91), 3595 (Fetch45), 4181 (Load55), 5064 (Push57), 6520 (Beta88)
+Task 4558 added.
+Task 6520 removed.
+Task 6977 added with 2 deps.
+Ready tasks: 1480 1879 1901 2961 4558
+Task 7261 added.
+Task 715 added with 2 deps.
+Task 2592 added.
+Task 2272 added with 2 deps.
+Task 4558 marked as done.
+Task 9655 added.
+Task 5513 added with 2 deps.
+Task 5972 added with 2 deps.
+Task 8318 added.
+Task 1133 added.
+Task 7205 added with 2 deps.
+Task 9939 added with 2 deps.
+Task 8318 marked as done.
+Task 6150 added.
+Task 7388 added.
+Task 2762 added.
+Task 9655 marked as done.
+Task 7261 marked as done.
+Task 6109 added with 3 deps.
+Task 7467 added with 1 deps.
+Task 2592 marked as done.
+Task 1879 marked as done.
+Task 5184 added.
+Task 7382 added.
+Task 8102 added.
+Task 2102 added.
+Task 5972: Release70
+Status: pending
+Dependencies: 2961 (Build91), 3638 (Push37)
+Ready tasks: 1133 1480 1901 2102 2762 2961 5184 6150 7382 7388 8102
+Task 6150 removed.
+Task 9290 added with 3 deps.
+Pending tasks: 715 (Load95), 1133 (Design86), 1480 (Load41), 1901 (Alpha30), 2102 (Beta15), 2272 (Sync69), 2562 (Verify47), 2762 (Deploy8), 2961 (Build91), 3595 (Fetch45), 4181 (Load55), 5064 (Push57), 5184 (Design31), 5513 (Pack72), 5972 (Release70), 6109 (Push32), 6977 (Generate97), 7205 (Design24), 7382 (Verify85), 7388 (Gamma17), 7467 (Epsilon4), 8102 (Verify35), 9290 (Pack36), 9939 (Design24)
+Task 1133 marked as done.
+Task 4558 removed.
+Task 7388 marked as done.
+Task 9827 added with 2 deps.
+Task 7066 added.
+Task 7382 marked as done.
+Task 9755 added.
+Task 9821 added.
+Task 2961 marked as done.
+Task 3051 added with 3 deps.
+[pending] 715: Load95
+[done]    1133: Design86
+[pending] 1480: Load41
+[done]    1879: Review21
+[pending] 1901: Alpha30
+[pending] 2102: Beta15
+[pending] 2272: Sync69
+[pending] 2562: Verify47
+[done]    2592: Eta60
+[pending] 2762: Deploy8
+[done]    2961: Build91
+[pending] 3051: Theta59
+[pending] 3595: Fetch45
+[done]    3638: Push37
+[pending] 4181: Load55
+[pending] 5064: Push57
+[pending] 5184: Design31
+[pending] 5513: Pack72
+[done]    5522: Generate61
+[pending] 5972: Release70
+[pending] 6109: Push32
+[pending] 6977: Generate97
+[pending] 7066: Link50
+[pending] 7205: Design24
+[done]    7261: Review20
+[done]    7382: Verify85
+[done]    7388: Gamma17
+[pending] 7467: Epsilon4
+[pending] 8102: Verify35
+[done]    8240: Load57
+[done]    8318: Check66
+[pending] 9290: Pack36
+[done]    9655: Generate84
+[pending] 9755: Cache54
+[pending] 9821: Clean92
+[pending] 9827: Load15
+[pending] 9939: Design24
+Task 2887 added.
+[pending] 715: Load95
+[done]    1133: Design86
+[pending] 1480: Load41
+[done]    1879: Review21
+[pending] 1901: Alpha30
+[pending] 2102: Beta15
+[pending] 2272: Sync69
+[pending] 2562: Verify47
+[done]    2592: Eta60
+[pending] 2762: Deploy8
+[pending] 2887: Check25
+[done]    2961: Build91
+[pending] 3051: Theta59
+[pending] 3595: Fetch45
+[done]    3638: Push37
+[pending] 4181: Load55
+[pending] 5064: Push57
+[pending] 5184: Design31
+[pending] 5513: Pack72
+[done]    5522: Generate61
+[pending] 5972: Release70
+[pending] 6109: Push32
+[pending] 6977: Generate97
+[pending] 7066: Link50
+[pending] 7205: Design24
+[done]    7261: Review20
+[done]    7382: Verify85
+[done]    7388: Gamma17
+[pending] 7467: Epsilon4
+[pending] 8102: Verify35
+[done]    8240: Load57
+[done]    8318: Check66
+[pending] 9290: Pack36
+[done]    9655: Generate84
+[pending] 9755: Cache54
+[pending] 9821: Clean92
+[pending] 9827: Load15
+[pending] 9939: Design24
+Task 9161 added with 2 deps.
+Task 6668 added.
+Ready tasks: 1480 1901 2102 2762 2887 5184 5972 6668 7066 7467 8102 9755 9821
+Task 1709 added.
+Task 5829 added with 1 deps.
+Task 5972: Release70
+Status: pending
+Dependencies: 2961 (Build91), 3638 (Push37)
+Task 6668 removed.
+Ready tasks: 1480 1709 1901 2102 2762 2887 5184 5972 7066 7467 8102 9755 9821
+Task 1870 added.
+Task 7999 added with 1 deps.
+Task 5064: Push57
+Status: pending
+Dependencies: 1901 (Alpha30), 2562 (Verify47), 4181 (Load55)
+Task 9104 added.
+Task 2887 marked as done.
+Task 9755 marked as done.
+Task 8369 added.
+Task 1870 marked as done.
+Task 7261: Review20
+Status: done
+Task 1257 added.
+Pending tasks: 715 (Load95), 1257 (Init9), 1480 (Load41), 1709 (Delta94), 1901 (Alpha30), 2102 (Beta15), 2272 (Sync69), 2562 (Verify47), 2762 (Deploy8), 3051 (Theta59), 3595 (Fetch45), 4181 (Load55), 5064 (Push57), 5184 (Design31), 5513 (Pack72), 5829 (Deploy52), 5972 (Release70), 6109 (Push32), 6977 (Generate97), 7066 (Link50), 7205 (Design24), 7467 (Epsilon4), 7999 (Setup78), 8102 (Verify35), 8369 (Gamma10), 9104 (Validate50), 9161 (Verify63), 9290 (Pack36), 9821 (Clean92), 9827 (Load15), 9939 (Design24)
+Task 2762 marked as done.
+Task 696 added.
+Task 4222 added with 3 deps.
+Task 7592 added.
+[pending] 696: Release23
+[pending] 715: Load95
+[done]    1133: Design86
+[pending] 1257: Init9
+[pending] 1480: Load41
+[pending] 1709: Delta94
+[done]    1870: Beta89
+[done]    1879: Review21
+[pending] 1901: Alpha30
+[pending] 2102: Beta15
+[pending] 2272: Sync69
+[pending] 2562: Verify47
+[done]    2592: Eta60
+[done]    2762: Deploy8
+[done]    2887: Check25
+[done]    2961: Build91
+[pending] 3051: Theta59
+[pending] 3595: Fetch45
+[done]    3638: Push37
+[pending] 4181: Load55
+[pending] 4222: Beta8
+[pending] 5064: Push57
+[pending] 5184: Design31
+[pending] 5513: Pack72
+[done]    5522: Generate61
+[pending] 5829: Deploy52
+[pending] 5972: Release70
+[pending] 6109: Push32
+[pending] 6977: Generate97
+[pending] 7066: Link50
+[pending] 7205: Design24
+[done]    7261: Review20
+[done]    7382: Verify85
+[done]    7388: Gamma17
+[pending] 7467: Epsilon4
+[pending] 7592: Load57
+[pending] 7999: Setup78
+[pending] 8102: Verify35
+[done]    8240: Load57
+[done]    8318: Check66
+[pending] 8369: Gamma10
+[pending] 9104: Validate50
+[pending] 9161: Verify63
+[pending] 9290: Pack36
+[done]    9655: Generate84
+[done]    9755: Cache54
+[pending] 9821: Clean92
+[pending] 9827: Load15
+[pending] 9939: Design24
+Task 7066 marked as done.
+Task 7999: Setup78
+Status: pending
+Dependencies: 1133 (Design86)
+Task 1901 marked as done.
+Task 9948 added.
+Task 537 added with 1 deps.
+Task 4222: Beta8
+Status: pending
+Dependencies: 5972 (Release70), 9104 (Validate50), 9655 (Generate84)

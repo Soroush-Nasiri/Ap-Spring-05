@@ -1,0 +1,4 @@
+NEW_LIST X
+ADD 1 Alpha
+ADD 1 Beta
+EXIT

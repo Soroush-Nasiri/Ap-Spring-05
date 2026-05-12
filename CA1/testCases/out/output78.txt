@@ -1,0 +1,154 @@
+List 'Sprint2' created.
+Task 8438 added.
+Pending tasks: 8438 (Pack73)
+Task 7279 added with 1 deps.
+Task 8438 marked as done.
+Task 3955 added.
+Task 8411 added.
+List 'Phase8' created.
+Task 4967 added.
+Task 6647 added with 1 deps.
+Task 393 added.
+Task 393 marked as done.
+Task 393: Release96
+Status: done
+Pending tasks: 4967 (Alpha5), 6647 (Epsilon22)
+Task 4838 added.
+Task 4443 added with 3 deps.
+List 'Phase3' created.
+Task 7216 added.
+Task 7278 added.
+Task 7278 marked as done.
+Task 7216 marked as done.
+Task 136 added.
+Task 7975 added.
+Task 136: Init67
+Status: pending
+Task 4386 added with 3 deps.
+[pending] 136: Init67
+[pending] 4386: Zeta62
+[done]    7216: Release5
+[done]    7278: Validate30
+[pending] 7975: Commit30
+Task 7975 marked as done.
+Task 9946 added.
+Task 136: Init67
+Status: pending
+Pending tasks: 136 (Init67), 4386 (Zeta62), 9946 (Gamma93)
+Task 8266 added with 2 deps.
+Task 8653 added with 3 deps.
+Ready tasks: 136 9946
+Task 5833 added with 1 deps.
+Task 2389 added.
+Task 8548 added with 1 deps.
+Task 2389 removed.
+Task 8653 removed.
+Task 5833 marked as done.
+Task 897 added with 2 deps.
+Ready tasks: 136 8548 9946
+Task 7088 added with 2 deps.
+Task 2690 added with 1 deps.
+[pending] 136: Init67
+[pending] 897: Release99
+[pending] 2690: Link51
+[pending] 4386: Zeta62
+[done]    5833: Init52
+[pending] 7088: Link85
+[done]    7216: Release5
+[done]    7278: Validate30
+[done]    7975: Commit30
+[pending] 8266: Eta47
+[pending] 8548: Deploy85
+[pending] 9946: Gamma93
+Task 8474 added.
+Task 897: Release99
+Status: pending
+Dependencies: 136 (Init67), 7975 (Commit30)
+Task 3335 added with 1 deps.
+Pending tasks: 136 (Init67), 897 (Release99), 2690 (Link51), 3335 (Parse42), 4386 (Zeta62), 7088 (Link85), 8266 (Eta47), 8474 (Compile51), 8548 (Deploy85), 9946 (Gamma93)
+Ready tasks: 136 8474 8548 9946
+Task 136 marked as done.
+Task 3974 added.
+Task 8548 marked as done.
+Task 8505 added with 2 deps.
+[done]    136: Init67
+[pending] 897: Release99
+[pending] 2690: Link51
+[pending] 3335: Parse42
+[pending] 3974: Run47
+[pending] 4386: Zeta62
+[done]    5833: Init52
+[pending] 7088: Link85
+[done]    7216: Release5
+[done]    7278: Validate30
+[done]    7975: Commit30
+[pending] 8266: Eta47
+[pending] 8474: Compile51
+[pending] 8505: Compile69
+[done]    8548: Deploy85
+[pending] 9946: Gamma93
+Task 4386: Zeta62
+Status: pending
+Dependencies: 136 (Init67), 7216 (Release5), 7278 (Validate30)
+Task 4386 marked as done.
+Task 5125 added with 3 deps.
+Task 2079 added with 1 deps.
+Ready tasks: 897 2079 3974 8474 8505 9946
+Task 6428 added.
+Task 8495 added.
+Task 9946: Gamma93
+Status: pending
+[done]    136: Init67
+[pending] 897: Release99
+[pending] 2079: Beta37
+[pending] 2690: Link51
+[pending] 3335: Parse42
+[pending] 3974: Run47
+[done]    4386: Zeta62
+[pending] 5125: Verify19
+[done]    5833: Init52
+[pending] 6428: Delta95
+[pending] 7088: Link85
+[done]    7216: Release5
+[done]    7278: Validate30
+[done]    7975: Commit30
+[pending] 8266: Eta47
+[pending] 8474: Compile51
+[pending] 8495: Parse76
+[pending] 8505: Compile69
+[done]    8548: Deploy85
+[pending] 9946: Gamma93
+Ready tasks: 897 2079 3974 6428 8474 8495 8505 9946
+Task 8548: Deploy85
+Status: done
+Dependencies: 7216 (Release5)
+Pending tasks: 897 (Release99), 2079 (Beta37), 2690 (Link51), 3335 (Parse42), 3974 (Run47), 5125 (Verify19), 6428 (Delta95), 7088 (Link85), 8266 (Eta47), 8474 (Compile51), 8495 (Parse76), 8505 (Compile69), 9946 (Gamma93)
+Task 8495 marked as done.
+Task 3335: Parse42
+Status: pending
+Dependencies: 8266 (Eta47)
+[done]    136: Init67
+[pending] 897: Release99
+[pending] 2079: Beta37
+[pending] 2690: Link51
+[pending] 3335: Parse42
+[pending] 3974: Run47
+[done]    4386: Zeta62
+[pending] 5125: Verify19
+[done]    5833: Init52
+[pending] 6428: Delta95
+[pending] 7088: Link85
+[done]    7216: Release5
+[done]    7278: Validate30
+[done]    7975: Commit30
+[pending] 8266: Eta47
+[pending] 8474: Compile51
+[done]    8495: Parse76
+[pending] 8505: Compile69
+[done]    8548: Deploy85
+[pending] 9946: Gamma93
+Task 3974 marked as done.
+Task 9318 added.
+Task 897 marked as done.
+Task 5198 added.
+Task 438 added with 3 deps.

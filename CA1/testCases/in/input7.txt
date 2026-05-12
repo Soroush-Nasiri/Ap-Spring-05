@@ -1,0 +1,4 @@
+NEW_LIST X
+ADD 1 Alpha
+STATUS 55
+EXIT

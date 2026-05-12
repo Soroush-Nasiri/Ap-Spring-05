@@ -1,0 +1,105 @@
+List 'Phase14' created.
+Task 7952 added.
+Task 4579 added.
+Task 5939 added.
+List 'Proj11' created.
+Task 957 added.
+Task 7787 added with 1 deps.
+Task 8060 added.
+Task 6945 added.
+Task 1411 added with 3 deps.
+Ready tasks: 957 6945 8060
+Task 957 marked as done.
+Task 5126 added.
+Task 2003 added.
+Task 5126 marked as done.
+Task 4598 added with 1 deps.
+Task 2003 marked as done.
+Task 5149 added.
+Task 2322 added with 2 deps.
+Task 6041 added with 3 deps.
+Task 3004 added with 2 deps.
+Task 7787 marked as done.
+Task 6945 marked as done.
+Task 2425 added with 2 deps.
+Task 8060 marked as done.
+Ready tasks: 1411 4598 5149
+Task 2322: Validate25
+Status: pending
+Dependencies: 1411 (Archive42), 6945 (Validate57)
+Task 3882 added.
+Task 3426 added.
+Pending tasks: 1411 (Archive42), 2322 (Validate25), 2425 (Theta73), 3004 (Render42), 3426 (Build41), 3882 (Scan27), 4598 (Compile78), 5149 (Scan86), 6041 (Setup2)
+Task 6945: Validate57
+Status: done
+Task 2661 added.
+Task 3004: Render42
+Status: pending
+Dependencies: 6041 (Setup2), 6945 (Validate57)
+Task 4598 removed.
+Ready tasks: 1411 2661 3426 3882 5149
+Task 3426 marked as done.
+Task 4106 added with 3 deps.
+Task 7840 added.
+Task 2003 removed.
+Task 7840 marked as done.
+Task 8748 added.
+Task 6371 added.
+[done]    957: Format84
+[pending] 1411: Archive42
+[pending] 2322: Validate25
+[pending] 2425: Theta73
+[pending] 2661: Archive83
+[pending] 3004: Render42
+[done]    3426: Build41
+[pending] 3882: Scan27
+[pending] 4106: Test92
+[done]    5126: Run89
+[pending] 5149: Scan86
+[pending] 6041: Setup2
+[pending] 6371: Commit79
+[done]    6945: Validate57
+[done]    7787: Pull27
+[done]    7840: Pack35
+[done]    8060: Parse40
+[pending] 8748: Sync56
+Task 9706 added.
+Task 6126 added.
+Task 1411 marked as done.
+Task 4858 added.
+Task 4858 marked as done.
+Task 7840: Pack35
+Status: done
+Task 1578 added.
+Task 4312 added.
+Task 249 added.
+Task 6793 added with 3 deps.
+Task 2887 added with 2 deps.
+Task 1411: Archive42
+Status: done
+Dependencies: 6945 (Validate57), 7787 (Pull27), 8060 (Parse40)
+Task 5149 marked as done.
+Task 3882 marked as done.
+Task 3426 removed.
+Task 4520 added.
+Task 6275 added.
+Ready tasks: 249 1578 2322 2661 4312 4520 6126 6275 6371 8748 9706
+List 'Release1' created.
+Task 1703 added.
+[pending] 1703: Verify72
+Task 1703: Verify72
+Status: pending
+Task 1703: Verify72
+Status: pending
+Task 8409 added.
+Task 6119 added.
+Task 1442 added.
+Task 1743 added.
+Task 6903 added.
+Ready tasks: 1442 1703 1743 6119 6903 8409
+Task 9154 added.
+Task 9477 added.
+Task 4691 added.
+Task 6119 marked as done.
+Task 6747 added with 3 deps.
+Task 9232 added with 3 deps.

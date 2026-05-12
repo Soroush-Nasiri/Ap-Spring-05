@@ -1,0 +1,7 @@
+List 'X' created.
+Task 1 added.
+Task 2 added.
+Task 3 added.
+Task 1 marked as done.
+Task 3 marked as done.
+Pending tasks: 2 (B)

@@ -1,0 +1,16 @@
+List 'Phase1' created.
+Task 9996 added.
+Task 1036 added.
+Task 4952 added.
+Task 2291 added.
+Task 2291 marked as done.
+Task 2532 added.
+Task 1623 added with 1 deps.
+Cannot remove task 2532: other tasks depend on it.
+Task 4952 removed.
+Task 6071 added.
+Cannot complete task 1623: prerequisites not met.
+Task 9996 marked as done.
+Error: dependency 8921 not found.
+Task 9996 removed.
+Task 5465 added with 1 deps.

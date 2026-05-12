@@ -1,0 +1,5 @@
+List 'X' created.
+Task 1 added.
+Task 2 added.
+Task 3 added.
+Pending tasks: 1 (A), 2 (B), 3 (C)

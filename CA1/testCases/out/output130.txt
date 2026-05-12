@@ -1,0 +1,14 @@
+List 'Sprint7' created.
+Task 4097 added.
+Task 7874 added.
+Task 1681 added.
+Task 4097 removed.
+Error: task 7392 not found.
+Task 6798 added.
+Task 7874 marked as done.
+Task 6143 added with 1 deps.
+Cannot complete task 6143: prerequisites not met.
+Task 1681 marked as done.
+Task 6798 marked as done.
+Error: task 628 not found.
+Task 6143 removed.

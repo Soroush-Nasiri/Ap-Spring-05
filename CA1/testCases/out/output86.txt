@@ -1,0 +1,176 @@
+List 'Sprint3' created.
+Task 1807 added.
+Task 1331 added with 1 deps.
+Task 1807 marked as done.
+Task 1331 marked as done.
+Task 1807: Format61
+Status: done
+Task 1331 removed.
+List 'Phase20' created.
+Task 1016 added.
+Task 5035 added with 1 deps.
+Task 4288 added with 2 deps.
+Task 1016 marked as done.
+Task 4399 added with 2 deps.
+Task 7970 added.
+Task 5870 added.
+Task 3209 added.
+Task 7970: Beta5
+Status: pending
+Task 8548 added with 3 deps.
+Task 156 added with 1 deps.
+[pending] 156: Build71
+[done]    1016: Release62
+[pending] 3209: Link13
+[pending] 4288: Sync32
+[pending] 4399: Zeta7
+[pending] 5035: Cache84
+[pending] 5870: Check52
+[pending] 7970: Beta5
+[pending] 8548: Verify76
+Task 7970 marked as done.
+Task 9458 added.
+Task 5870: Check52
+Status: pending
+Task 3209 marked as done.
+Task 2732 added.
+Task 4288: Sync32
+Status: pending
+Dependencies: 1016 (Release62), 5035 (Cache84)
+[pending] 156: Build71
+[done]    1016: Release62
+[pending] 2732: Render88
+[done]    3209: Link13
+[pending] 4288: Sync32
+[pending] 4399: Zeta7
+[pending] 5035: Cache84
+[pending] 5870: Check52
+[done]    7970: Beta5
+[pending] 8548: Verify76
+[pending] 9458: Pack91
+[pending] 156: Build71
+[done]    1016: Release62
+[pending] 2732: Render88
+[done]    3209: Link13
+[pending] 4288: Sync32
+[pending] 4399: Zeta7
+[pending] 5035: Cache84
+[pending] 5870: Check52
+[done]    7970: Beta5
+[pending] 8548: Verify76
+[pending] 9458: Pack91
+Task 2312 added with 3 deps.
+Task 5035 marked as done.
+Task 1269 added with 2 deps.
+Task 9523 added with 3 deps.
+Task 7970: Beta5
+Status: done
+Task 5870 marked as done.
+Task 8130 added with 2 deps.
+Task 5870: Check52
+Status: done
+Task 5377 added.
+Task 4983 added.
+Task 7689 added.
+Task 9458 marked as done.
+Task 8548 marked as done.
+Task 274 added.
+Task 5377 marked as done.
+Task 274 marked as done.
+Task 4288 marked as done.
+Task 5772 added.
+Task 4441 added with 3 deps.
+Task 4983 marked as done.
+Task 9523: Load19
+Status: pending
+Dependencies: 4288 (Sync32), 5035 (Cache84), 9458 (Pack91)
+Task 156 marked as done.
+Task 655 added with 2 deps.
+Task 7689: Generate99
+Status: pending
+Task 5777 added.
+Task 4159 added.
+Task 4781 added.
+Task 2732 marked as done.
+Task 542 added.
+Task 5163 added with 3 deps.
+Task 271 added.
+Task 8125 added.
+Task 3336 added with 2 deps.
+Task 655: Clean5
+Status: pending
+Dependencies: 274 (Setup70), 8548 (Verify76)
+Task 7653 added with 3 deps.
+Task 2296 added.
+Task 9478 added with 3 deps.
+Task 5414 added.
+Task 3663 added.
+Task 5985 added.
+Task 1269 marked as done.
+Task 5395 added.
+Task 7522 added.
+Task 3262 added.
+Task 6786 added with 2 deps.
+[done]    156: Build71
+[pending] 271: Beta18
+[done]    274: Setup70
+[pending] 542: Cache89
+[pending] 655: Clean5
+[done]    1016: Release62
+[done]    1269: Compile56
+[pending] 2296: Flush24
+[pending] 2312: Validate7
+[done]    2732: Render88
+[done]    3209: Link13
+[pending] 3262: Eta53
+[pending] 3336: Test1
+[pending] 3663: Verify42
+[pending] 4159: Sync11
+[done]    4288: Sync32
+[pending] 4399: Zeta7
+[pending] 4441: Test23
+[pending] 4781: Init49
+[done]    4983: Review48
+[done]    5035: Cache84
+[pending] 5163: Render19
+[done]    5377: Eta36
+[pending] 5395: Beta51
+[pending] 5414: Render54
+[pending] 5772: Design48
+[pending] 5777: Check37
+[done]    5870: Check52
+[pending] 5985: Epsilon9
+[pending] 6786: Format83
+[pending] 7522: Test75
+[pending] 7653: Format44
+[pending] 7689: Generate99
+[done]    7970: Beta5
+[pending] 8125: Fetch61
+[pending] 8130: Epsilon56
+[done]    8548: Verify76
+[done]    9458: Pack91
+[pending] 9478: Zeta37
+[pending] 9523: Load19
+Task 1281 added.
+Task 4288: Sync32
+Status: done
+Dependencies: 1016 (Release62), 5035 (Cache84)
+Task 8332 added with 2 deps.
+Task 4399 marked as done.
+Task 4700 added.
+Task 4159: Sync11
+Status: pending
+Task 3262 marked as done.
+Task 8125 marked as done.
+Task 572 added.
+Task 3257 added with 2 deps.
+Task 1035 added with 2 deps.
+Task 3257 marked as done.
+Task 4626 added with 1 deps.
+Task 4700 marked as done.
+List 'Release5' created.
+Task 3180 added.
+List 'Proj12' created.
+Task 1614 added.
+List 'Build11' created.
+Task 1124 added.

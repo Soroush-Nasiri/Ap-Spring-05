@@ -1,0 +1,12 @@
+List 'Build20' created.
+Task 9087 added.
+Task 1698 added.
+Task 9087 marked as done.
+Error: dependency 8281 not found.
+Task 59 added.
+Error: task 4292 not found.
+Task 59 removed.
+Task 9087 removed.
+Task 1233 added.
+Task 6050 added.
+Error: task 7042 not found.

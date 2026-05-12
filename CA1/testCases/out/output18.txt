@@ -1,0 +1,7 @@
+List 'X' created.
+Task 10 added.
+Task 3 added.
+Task 7 added.
+[pending] 3: A
+[pending] 7: M
+[pending] 10: Z

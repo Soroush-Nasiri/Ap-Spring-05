@@ -1,0 +1,10 @@
+List 'X' created.
+Task 1 added.
+Task 2 added.
+Task 3 added.
+Task 4 added.
+Task 5 added.
+Task 6 added with 5 deps.
+Task 6: F
+Status: pending
+Dependencies: 1 (A), 2 (B), 3 (C), 4 (D), 5 (E)

@@ -1,0 +1,3 @@
+NEW_LIST X
+ADD_DEP 1 SelfRef 1
+EXIT

@@ -1,0 +1,15 @@
+List 'Task1' created.
+Task 9434 added.
+Task 3250 added.
+Task 3979 added.
+Task 4942 added.
+Task 6883 added.
+Task 7533 added with 1 deps.
+Cannot complete task 7533: prerequisites not met.
+Task 7922 added with 2 deps.
+Task 3979 marked as done.
+Error: task 1420 not found.
+Task 3250 removed.
+Task 7922 removed.
+Task 6883 removed.
+Error: task 7533 already exists.

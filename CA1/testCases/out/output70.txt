@@ -1,0 +1,87 @@
+List 'Phase11' created.
+Task 2302 added.
+Task 2383 added with 1 deps.
+Task 2302: Theta19
+Status: pending
+Task 6155 added.
+Task 5634 added with 1 deps.
+Task 2302 marked as done.
+Task 2383 removed.
+Task 2302 removed.
+Task 196 added.
+Pending tasks: 196 (Alpha17), 5634 (Generate68), 6155 (Merge96)
+Task 6492 added.
+Task 6886 added.
+[pending] 196: Alpha17
+[pending] 5634: Generate68
+[pending] 6155: Merge96
+[pending] 6492: Build80
+[pending] 6886: Delta79
+Task 6044 added.
+Task 711 added.
+Task 4470 added with 3 deps.
+Task 9318 added with 3 deps.
+Task 6879 added.
+Task 6044 marked as done.
+Ready tasks: 196 711 6155 6492 6879 6886
+[pending] 196: Alpha17
+[pending] 711: Link70
+[pending] 4470: Render93
+[pending] 5634: Generate68
+[done]    6044: Format61
+[pending] 6155: Merge96
+[pending] 6492: Build80
+[pending] 6879: Test60
+[pending] 6886: Delta79
+[pending] 9318: Render5
+Task 4019 added with 3 deps.
+Task 2150 added.
+Task 196 marked as done.
+Task 711 marked as done.
+Task 8164 added.
+Task 9848 added with 1 deps.
+Task 1937 added.
+Task 9848 removed.
+Pending tasks: 1937 (Clean29), 2150 (Verify59), 4019 (Validate48), 4470 (Render93), 5634 (Generate68), 6155 (Merge96), 6492 (Build80), 6879 (Test60), 6886 (Delta79), 8164 (Verify47), 9318 (Render5)
+Task 8164 removed.
+Task 2150: Verify59
+Status: pending
+Task 3919 added with 2 deps.
+Task 9193 added with 1 deps.
+Task 6155 marked as done.
+Task 133 added.
+Task 6879: Test60
+Status: pending
+Task 1230 added with 3 deps.
+Task 6155: Merge96
+Status: done
+Task 4470: Render93
+Status: pending
+Dependencies: 196 (Alpha17), 6492 (Build80), 6886 (Delta79)
+Task 133 marked as done.
+Task 4662 added with 3 deps.
+Task 6879 removed.
+List 'Proj4' created.
+Task 7533 added.
+Task 7533 marked as done.
+Task 5001 added.
+Task 3121 added with 1 deps.
+Task 5001 marked as done.
+Task 2739 added.
+Task 3121 marked as done.
+[pending] 2739: Scan82
+[done]    3121: Push33
+[done]    5001: Epsilon94
+[done]    7533: Commit13
+Task 3121: Push33
+Status: done
+Dependencies: 5001 (Epsilon94)
+Pending tasks: 2739 (Scan82)
+Task 3121: Push33
+Status: done
+Dependencies: 5001 (Epsilon94)
+Pending tasks: 2739 (Scan82)
+Task 2739 marked as done.
+Task 5001: Epsilon94
+Status: done
+Task 3262 added with 1 deps.

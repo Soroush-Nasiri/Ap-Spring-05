@@ -1,0 +1,63 @@
+List 'Release17' created.
+Task 5392 added.
+List 'Proj6' created.
+Task 9880 added.
+Task 8165 added.
+Task 8165: Verify26
+Status: pending
+List 'Proj17' created.
+Task 2389 added.
+Task 2389 marked as done.
+Task 7703 added with 1 deps.
+Task 7703 marked as done.
+Task 3994 added with 1 deps.
+Ready tasks: 3994
+Pending tasks: 3994 (Check55)
+Task 3994: Check55
+Status: pending
+Dependencies: 2389 (Pack41)
+Task 8909 added with 1 deps.
+Task 8909 removed.
+Task 7166 added.
+Task 2389: Pack41
+Status: done
+Task 6091 added.
+Task 1157 added.
+Task 5761 added.
+Task 8238 added.
+Task 9747 added with 1 deps.
+Task 7924 added.
+Task 922 added.
+Pending tasks: 922 (Compile37), 1157 (Format68), 3994 (Check55), 5761 (Beta74), 6091 (Pull48), 7166 (Beta76), 7924 (Lint52), 8238 (Eta17), 9747 (Setup49)
+Task 5117 added.
+Ready tasks: 922 1157 3994 5117 5761 6091 7166 7924 8238
+Task 2305 added with 2 deps.
+Task 677 added.
+Task 9747: Setup49
+Status: pending
+Dependencies: 8238 (Eta17)
+Task 1543 added.
+Task 5401 added.
+List 'Phase19' created.
+Task 8815 added.
+Task 9875 added with 1 deps.
+[pending] 8815: Parse65
+[pending] 9875: Commit70
+Task 8815 marked as done.
+Task 5796 added.
+[pending] 5796: Cache93
+[done]    8815: Parse65
+[pending] 9875: Commit70
+Task 3066 added.
+Ready tasks: 3066 5796 9875
+Task 9875: Commit70
+Status: pending
+Dependencies: 8815 (Parse65)
+Task 9875 removed.
+Task 9156 added with 1 deps.
+Pending tasks: 3066 (Link7), 5796 (Cache93), 9156 (Design32)
+Task 9156 removed.
+Task 37 added with 3 deps.
+Task 1945 added with 1 deps.
+List 'Release11' created.
+Task 9769 added.

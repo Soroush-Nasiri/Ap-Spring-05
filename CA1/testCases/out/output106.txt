@@ -1,0 +1,15 @@
+List 'Proj19' created.
+Task 8239 added.
+Task 932 added.
+Task 3045 added.
+Task 1114 added.
+Task 1965 added.
+Task 932 marked as done.
+Task 1965 marked as done.
+Task 1189 added with 2 deps.
+Cannot remove task 3045: other tasks depend on it.
+Task 8809 added.
+Task 3045 marked as done.
+Task 8239 marked as done.
+Error: task 6055 not found.
+Error: task 7180 not found.

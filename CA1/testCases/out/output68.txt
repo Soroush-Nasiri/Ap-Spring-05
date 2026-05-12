@@ -1,0 +1,85 @@
+List 'Release2' created.
+Task 5989 added.
+Task 7800 added.
+Task 7281 added.
+List 'Release10' created.
+Task 9780 added.
+Task 9045 added with 1 deps.
+Task 9354 added with 2 deps.
+Task 7173 added with 2 deps.
+Task 9780: Parse6
+Status: pending
+Task 3367 added.
+Task 9768 added.
+Task 9768 removed.
+Task 3367 marked as done.
+Ready tasks: 9780
+Task 2089 added.
+[pending] 2089: Verify65
+[done]    3367: Lint96
+[pending] 7173: Init60
+[pending] 9045: Archive69
+[pending] 9354: Push38
+[pending] 9780: Parse6
+Ready tasks: 2089 9780
+Task 7490 added.
+Task 6035 added.
+Task 7490 marked as done.
+Task 2089 marked as done.
+Task 9848 added.
+Task 4739 added with 1 deps.
+Task 6218 added with 1 deps.
+Task 5836 added.
+[done]    2089: Verify65
+[done]    3367: Lint96
+[pending] 4739: Lint2
+[pending] 5836: Verify54
+[pending] 6035: Parse75
+[pending] 6218: Commit45
+[pending] 7173: Init60
+[done]    7490: Alpha76
+[pending] 9045: Archive69
+[pending] 9354: Push38
+[pending] 9780: Parse6
+[pending] 9848: Load10
+Task 7490 removed.
+Task 1919 added with 3 deps.
+Ready tasks: 4739 5836 6035 6218 9780 9848
+Task 4873 added.
+Task 2686 added.
+Task 4739 removed.
+Task 5116 added with 1 deps.
+Task 5311 added.
+List 'Sprint16' created.
+Task 9145 added.
+Task 4584 added.
+Task 3835 added.
+Pending tasks: 3835 (Format5), 4584 (Epsilon3), 9145 (Beta83)
+Task 477 added.
+Task 7437 added.
+Ready tasks: 477 3835 4584 7437 9145
+Task 3835: Format5
+Status: pending
+Task 9145 marked as done.
+Task 5402 added.
+Task 5402: Verify68
+Status: pending
+Task 7356 added with 2 deps.
+Ready tasks: 477 3835 4584 5402 7437
+Task 9145: Beta83
+Status: done
+Task 5402 marked as done.
+Task 7437 marked as done.
+Task 3434 added with 3 deps.
+[pending] 477: Format61
+[pending] 3434: Merge89
+[pending] 3835: Format5
+[pending] 4584: Epsilon3
+[done]    5402: Verify68
+[pending] 7356: Merge94
+[done]    7437: Compile20
+[done]    9145: Beta83
+Pending tasks: 477 (Format61), 3434 (Merge89), 3835 (Format5), 4584 (Epsilon3), 7356 (Merge94)
+Task 857 added.
+Task 1831 added.
+Task 5855 added with 3 deps.

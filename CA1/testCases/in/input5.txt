@@ -1,0 +1,4 @@
+NEW_LIST X
+ADD 1 Alpha
+DONE 99
+EXIT
