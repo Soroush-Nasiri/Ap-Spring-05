@@ -16,11 +16,11 @@ This repository contains all assignments and projects for the **Advanced Program
 
 ```
 📦 Ap-Spring-05
- ┣ 📂 HW00/
- ┣ 📂 HW01/
- ┣ 📂 HW02/
- ┣ 📂 HW03/
- ┣ 📂 HW04/
+ ┣ 📂 CA0/
+ ┣ 📂 CA1/
+ ┣ 📂 CA2/
+ ┣ 📂 CA3/
+ ┣ 📂 CA4/
  ┗ 📂 FinalProject/
     ┣ 📂 Phase1/
     ┗ 📂 Phase2/
