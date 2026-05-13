@@ -8,7 +8,7 @@
 
 ## 📋 Course Overview
 
-This repository contains all assignments and projects for the **Advanced Programming** course, Spring 1405. The course covers core and advanced concepts in object-oriented.
+This repository contains all assignments and projects for the **Advanced Programming** course, Spring 1405. The course covers core and advanced concepts in object-oriented programming.
 
 ---
 
