@@ -38,7 +38,7 @@ This repository contains all assignments and projects for the **Advanced Program
 | CA0 | Computer Assignment 0 | ![Status](https://img.shields.io/badge/status-released-green) |
 | CA1 | Computer Assignment 1 | ![Status](https://img.shields.io/badge/status-released-green) |
 | CA2 | Computer Assignment 2 | ![Status](https://img.shields.io/badge/status-released-green) |
-| CA3 | Computer Assignment 3 | ![Status](https://img.shields.io/badge/status-upcoming-blue) |
+| CA3 | Computer Assignment 3 | ![Status](https://img.shields.io/badge/status-released-green) |
 | CA4 | Computer Assignment 4 | ![Status](https://img.shields.io/badge/status-upcoming-blue) |
 
 ---
