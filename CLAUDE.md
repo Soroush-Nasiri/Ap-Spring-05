@@ -43,10 +43,10 @@ The judge compiles via `make`, runs up to 100 test cases from `testCases/in/` an
 
 ## CA4 Assignment Detail (CA4/CA4.html)
 
-The CA4 assignment is a fully designed A4-paged HTML document (12 sections). Key decisions already made:
+The CA4 assignment is a fully designed A4-paged HTML document (13 sections). Key decisions already made:
 
 ### Structure
-- **12 sections**: مقدمه, اهداف, نمای کلی, ساختار پوشه, مدل داده, معماری, جزئیات قابلیت‌ها, TUI, OOP, Bonus, راهنمایی, miniaudio
+- **13 sections**: مقدمه, اهداف, نمای کلی, ساختار پوشه, مدل داده, معماری, جزئیات قابلیت‌ها, TUI, مدیریت خطا, OOP, Bonus, راهنمایی, miniaudio
 - **Fixed folder structure** (no CLI args): app runs as `./music_player` and reads from:
   - `Data/library.csv` — song metadata
   - `Data/settings.cfg` — saved state (created by the app)
@@ -54,14 +54,14 @@ The CA4 assignment is a fully designed A4-paged HTML document (12 sections). Key
   - `Data/Musics/*.mp3` — audio files
   - `src/miniaudio.h` — provided audio library (do not modify)
 
-### Bonus Table (Part 10)
+### Bonus Table (Part 11)
 Raw Keyboard Input (+15), Full ncurses TUI (+20), Play History (+10), Favourites (+5), Add to Playlist (+10), **Seek ←→ (+10)**
 
-### miniaudio (Part 12)
+### miniaudio (Part 13)
 - Uses **high-level API** (`ma_engine` + `ma_sound`), NOT the low-level device/callback API
-- Code example at top of Part 12 uses: `ma_sound_init_from_file` + `ma_sound_start` + `ma_sound_uninit`
+- Code example at top of Part 13 uses: `ma_sound_init_from_file` + `ma_sound_start` + `ma_sound_uninit`
 - API table maps each function to its Player equivalent (play/pause/stop/resume/getCurrentTime)
-- Seek subsection (12.4) is for the Bonus seek feature only
+- Seek subsection (13.4) is for the Bonus seek feature only
 
 ### Designers
 طراح تمرین: سروش نصیری و ایلیا افضلی — بهار ۱۴۰۵
